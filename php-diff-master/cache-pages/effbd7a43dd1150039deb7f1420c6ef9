@@ -1,0 +1,39 @@
+
+<h2>page1 content</h2>
+<a href="http://dnyavanandi.pl.internal/my-first-crawler/page2.html" target="_blank">Visit our page2</a>
+
+<p>If you set the target attribute to "_blank", the link will open in a new browser window or tab.</p>
+<a href="http://dnyavanandi.pl.internal/my-first-crawler/page3.html" target="_blank">Visit our page3</a>
+<table style="width:100%">
+<tr>
+<th>Firstname</th>
+    <th>Lastname</th>
+    <th>Age</th>
+  </tr>
+<tr>
+<td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+<tr>
+<td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+<tr>
+<td>John</td>
+    <td>Doe</td>
+    <td>80</td>
+  </tr>
+</table>
+<p>We are located in fargo</p>
+<p>Used aircrafts,turbines,bell parts are for sale</p>
+<div>Auction starts at 9.00 AM on Monday</div>
+<p>We do not sell Aircrafts and we only sell aeroplane parts</p>
+<p>Aeroplane,aircraft frames are for sale</p>
+<p>are you interested in buying turbine engine parts</p>
+<p>we manufacture aeroplane and auction</p>
+<p>We deliver and repair UH-1</p>
+<p>We sell only aircraft frames and repair aeroplane parts</p>
+<p> We repair parts</p>
+<p>Hello Everyone</p>

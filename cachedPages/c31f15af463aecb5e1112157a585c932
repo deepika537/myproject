@@ -1,0 +1,923 @@
+Depth: 1<br>URL: http://www.govliquidation.com/
+<br>CONTENT:<br>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head><!-- Pinterest Verification --><meta name="p:domain_verify" content="9ff747b82ab696d53c21ae8e8da41f29"><!-- Google Verification --><meta name="google-site-verification" content="gt2VX8lHNJCgw9ydIaNx5Gcs0dZnUxLR0YAuGJN882w"><script type="text/javascript">
+	<!--
+		var gomez = {
+			gs: new Date().getTime(),
+			acctId: 'FCC4FA',
+			pgId: 'GL - Index',
+			grpId: window.location.host,
+			wrate: .10
+		};
+	//-->
+	</script><script type="text/javascript" src="/shared/js/gomez.js"></script><link rel="canonical" href="http://www.govliquidation.com/"><title>Government Surplus Auctions at Government Liquidation</title><meta name="keywords" content="military surplus,auction,army surplus,government surplus,army auction,government auction,army,navy,us,military equipment,military vehicle,medical equipment,dental equipment,truck boat plane auction,surplus,jeep,salvage,military,camouflage"><meta name="description" content="Bid on military surplus and government surplus auctions at Government Liquidation, your direct source for army surplus, navy surplus, air force surplus and government auctions on military vehicles, medical and dental equipment."><link type="text/css" href="/bu/javascript/smoothness/jquery-ui-1.8.10.custom.css" rel="stylesheet"><link type="text/css" href="/bu/themes/gl.css" rel="stylesheet"><script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script><script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.10/jquery-ui.min.js"></script><script type="text/javascript" language="javascript" src="/bu/javascript/lib/jcarousellite_1.0.1.js"></script><script type="text/javascript" language="javascript" src="/bu/javascript/flash.js"></script><script type="text/javascript" language="javascript" src="/bu/javascript/autoEllipsis.js"></script><script type="text/javascript" language="javascript" src="/bu/javascript/common.js"></script><script type="text/javascript">
+if($.browser.msie){
+	var script = jQuery("<script>" + "ipt>")
+	   .attr("type", "text/javascript")
+	   .attr("src", "/bu/javascript/lib/json2.js");
+	jQuery("head").append(script);  
+}
+dynamic_code("");
+</script><!-- Custom BUX Tracking --><script type="text/javascript" src="/bu/javascript/buxTrack.js"></script><!-- /Custom BUX Tracking --><!-- Custom GA Event Tracking --><script type="text/javascript" src="/shared/bu/jslib/jquery.building-blocks.googleanalytics.js"></script><!-- /Custom GA Event Tracking --><script type="text/javascript">
+	// Google Tag Manager Data Layer Code
+	$(document).ready(function(){
+		if (window['custompagename'] != undefined) {
+			dataLayer.push({
+				'event':'VirtualPageview',
+				'virtualPageURL':custompagename,
+				'virtualPageTitle':document.title
+			});
+		}
+	});
+
+	// Google Analytics Code
+	var _gaq = _gaq || [];
+
+	// Google Analytics Event Tracking
+	$(document).ready(function(){
+		var gaLabel = '';
+		$('#advanced-search').click(function(){
+			gaLabel = $('#adv_words').val();
+			$(this).attr('data-ga-label', gaLabel);
+		});
+		$('.search-con #btnSearch').click(function(){
+			gaLabel = $('#searchText').val();
+			$(this).attr('data-ga-label', gaLabel);
+		});
+		$('#register').click(function(){
+			var gaLabel = $('select[name="busType"] option:selected').html();
+			$(this).attr('data-ga-label', gaLabel);
+		});
+		$('.track-ga').gaTrackEventUnobtrusive({
+			useEvent: true,
+			useLabel: true,
+			event: 'click'
+		});
+		$('.track-ga-load').gaTrackEventUnobtrusive({
+			useEvent: false,
+			useLabel: true
+		});
+	});
+
+	// Visual Website Optimizer Code (Asynchronous)
+	var _vwo_code=(function(){
+	var account_id=5118,
+	settings_tolerance=1500,
+	library_tolerance=3000,
+	use_existing_jquery=true,
+	f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+
+	// Eloqua Code (Asynchronous)
+	var _elqQ = _elqQ || [];
+	_elqQ.push(['elqSetSiteId', '1526081490']);
+	_elqQ.push(['elqTrackPageView']);
+	(function () {
+	    function async_load() {
+	        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+	        s.src = '/elqNow/elqCfg.min.js';
+	        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+	    }
+	    if (window.addEventListener) window.addEventListener('DOMContentLoaded', async_load, false);
+	    else if (window.attachEvent) window.attachEvent('onload', async_load); 
+	})();
+</script><script type="text/javascript">
+		var flag = false;
+		$.getJSON("/json/buyer_ux/index.js",
+				function(data) {
+					var interval = setInterval(function() {
+						if (flag) {							
+							clearInterval(interval);
+							var featuredItem,otherCollection,str = "",carousels = [];
+							/// If logged or notlogged in
+							var needCollection = null;
+							if (!username || username == "") {
+								needCollection = data.layouts.notLoggedIn;
+							} else {
+								needCollection = data.layouts.loggedIn;
+							}
+							if (needCollection.collections.featured.carousel != null) {
+								featuredItem = needCollection.collections.featured.carousel;
+								otherCollection = needCollection.collections.carousel[0];
+							}
+							else {
+								featuredItem = needCollection.collections.carousel[0];
+								otherCollection = needCollection.collections.carousel[1];
+							}
+							carousels.push(data.collections[featuredItem]);
+							carousels.push(data.collections[otherCollection]);
+							for (var i = 0; i < carousels.length; i++) {
+								str += '<h3>' + carousels[i].title + '' + '\n';
+								str += '<div class="carousel' + i + '">' + '\n';
+								str += '    <div class="btn-left carousel-button"' + '\n';
+								str += '         onClick="$.ga.trackEvent({ category : \'Carousels\', action : \'Homepage\', label : \'carousel-button-left-' + (i+1) + '\'}); return true;">' + '\n';
+								str += '    <div class="btn-right carousel-button"' + '\n';
+								str += '         onClick="$.ga.trackEvent({ category : \'Carousels\', action : \'Homepage\', label : \'carousel-button-right-' + (i+1) + '\'});return true;">' + '\n';
+								str += '    <ul>' + '\n';
+								var auctions = carousels[i].auctions;
+								for (var j = 0; j < auctions.length; j++) {
+									var auctionTitle = auctions[j].LOT_TITLE;
+									var auctionImgUrl = '';
+									auctionImgUrl = returnOriginalImage(auctions[j].THUMBNAIL_URL);
+									auctionImgUrl = auctionImgUrl.replace('gl_tiny_thumb','gl_carousel');
+									var auctionId = auctions[j].AUCTION_ID;
+									var eventId   = auctions[j].EVENT_ID;
+									var lotNumber = auctions[j].LOT_NUMBER;
+									str += '        <li class="carousel-item">'+ '\n';
+									str += '            <a name="' + carousels[i].label + '-carousel-item-' + (j+1) + '-auction-' + auctionId + '"' + '\n';
+									str += '               href="/auction/view?auctionId=' + auctionId + '"'+ '\n';
+									str += '               onClick="$.ga.trackEvent({ category : \'Carousels\', action : \'Homepage\', label : \'' + auctionId + '-' + eventId + '-' + lotNumber + '-' + (i+1) + '-' + (j+1) + '\'}); return true;">' + '\n';
+									str += '               <div class="img-bin previewable-lot" data-title="' + auctionTitle + '" name="' + auctionId + '">' + '\n';
+									str += '                   <img src="' + auctionImgUrl + '" alt="' + auctionTitle + '"/>' + '\n';
+									str += '               ' + '\n';
+									str += '               <div class="auction_title">' + auctionTitle + '' + '\n';
+									str += '            ' + '\n';
+									str += '        ';
+								}
+
+								str += '    ' + '\n';
+								str += '' + '\n';
+								str += '<div class="clear">' + '\n';
+								/*if(i != carousels.length -1)
+									str += '<hr/>';*/
+
+							}
+
+							$('#carouselContainer').html(str);
+							if($(".carousel0 li.carousel-item").length > 4){
+								$(".carousel0").jCarouselLite({
+									btnNext: ".carousel0 .btn-right",
+									btnPrev: ".carousel0 .btn-left",
+									scroll : 4
+								});
+							} else {
+								$(".carousel0 .btn-right").remove();
+								$(".carousel0 .btn-left").remove();
+							}
+							if($(".carousel1 li.carousel-item").length > 4){
+								$(".carousel1").jCarouselLite({
+									btnNext: ".carousel1 .btn-right",
+									btnPrev: ".carousel1 .btn-left",
+									scroll : 4
+								});
+							} else {
+								$(".carousel1 .btn-right").remove();
+								$(".carousel1 .btn-left").remove();
+							}
+							if($.browser.msie && $.browser.version < 8) {
+								$("li.carousel-item a").fixClick();
+							}
+						} else {
+
+						}
+						$('.carousel-item .auction_title').autoEllipsisByWord('',{width:155,lines:2,showTitle:false})
+						var topBanner = $('#topFullBanner');
+						var bannerArea = $('#bannerArea');
+						if (topBanner.html() == "" || bannerArea.hasClass('banner-loaded')) {
+							if(topBanner.html() == ""){
+								topBanner.html('<div id="bannerArea" class="bannerWrapper"><ul><div class="clear"><div id="bannerMenu" class="dark" style="display:none;">');
+								bannerArea.css('background-image', 'url(' + data.banners["dropdown-banner"]["background_image_path"] + ')');
+								for (i = 0; i < data.banners["dropdown-banner"].collections.length; i++) {
+									var lbl = data.banners["dropdown-banner"].collections[i].label;
+									$('#bannerArea ul').append('<li name="' + lbl + '"><table width="100%" height="100%" cellspacing="0" cellpadding="0"><tr><td align="center" valing="middle"><img src="' + data.banners["dropdown-banner"].collections[i].image + '">');
+								}
+								bannerArea = $('#bannerArea');
+							}
+							var banner = {
+								opacity : 0.2,
+								imgWidth : $('.bannerWrapper ul li').find('img').width(),
+								imgHeight : $('.bannerWrapper ul li').find('img').height()
+							};
+
+							var bannerCollectionStr = '';
+							var cgs = bannerArea.find('ul li');
+							for (i = 0; i < cgs.length; i++) {
+								lbl = $(cgs[i]).attr('name');
+								var collection = data.collections[lbl];
+								bannerCollectionStr += '<div class="bannerCollection" id="banner_' + lbl + '"><div class="bannerMenu-header">' + collection.title + '';
+								bannerCollectionStr += '<div class="close-button">';
+								bannerCollectionStr += '<ul>';
+								var size = collection.auctions.length > 7 ? 7 : collection.auctions.length ;
+								for (j = 0; j < size; j++) {
+									var auc = collection.auctions[j];
+									auctionTitle = auc.LOT_TITLE;
+									auctionImgUrl = returnOriginalImage(auc.THUMBNAIL_URL)
+									auctionImgUrl = auctionImgUrl.replace('gl_tiny_thumb', 'gl_carousel');
+									auctionId = auc.AUCTION_ID;
+									bannerCollectionStr += '<li><a href="/auction/view?auctionId=' + auctionId + '"><img class="previewable-lot" data-title="'+auctionTitle+'" name="' + auctionId + '" src="' + auctionImgUrl + '"/>';
+									bannerCollectionStr += '<div class="banner-auc-title">' + auctionTitle + '';
+									/*bannerCollectionStr += '<div class="current-bid">$'+auc.current_bid+'';*/
+									bannerCollectionStr += '';
+								}
+								bannerCollectionStr += '';
+							}
+							$('#bannerMenu').html(bannerCollectionStr);
+//							$('#bannerArea ul li').css({ 'width' : banner.imgWidth, 'height' : banner.imgHeight });
+							var imgSelected = false;
+							$('#bannerArea ul li').hover(function() {
+								$(this).find('img').addClass('active').css({ 'opacity' : 1});
+								$(this).siblings('li').find('img:not(.selected)').css({'opacity' : banner.opacity});
+							}, function() {
+								$(this).find('img').removeClass('active');
+							}).find('img').bind('click', function() {
+								var c = $(this);
+								var currentCollection = c.parents('li');
+								var parentCon = currentCollection.parent();
+								var curCollection = $('#bannerMenu #banner_' + currentCollection.attr('name'));
+								if (curCollection.is(':visible')) {
+									curCollection.parent().slideUp();
+									imgSelected = false;
+									c.removeClass('selected')
+									c.parents('li').siblings('li').find('img').css({'opacity' : 1});
+									return false;
+								}
+								if (parentCon.find('img.selected').length != 0) {
+									parentCon.find('img.selected').removeClass('selected').css({'opacity' : banner.opacity});
+								}
+								imgSelected = true;
+								c.addClass('selected');
+								$('#bannerMenu .bannerCollection').hide();
+
+								curCollection.show();
+								$('#bannerMenu').slideDown(500, function() {
+									if (!curCollection.hasClass('truncated')) {
+										curCollection.find('.banner-auc-title').autoEllipsisByWord('', {lines:3,showTitle:false});
+										curCollection.addClass('truncated');
+									}
+								});
+							});
+
+							$('#bannerMenu .close-button').bind('click', function() {
+								$(this).parent().parent().slideUp();
+								imgSelected = false;
+								var c = $('#bannerArea img.selected');
+								c.removeClass('selected')
+								c.parents('li').siblings('li').find('img').css({'opacity' : 1});
+							});
+
+							$('#bannerArea ul').bind('mouseleave', function() {
+								if (!imgSelected)
+									$(this).find('img').css('opacity', 1);
+								else {
+									$(this).find('img:not(.selected)').css('opacity', banner.opacity);
+									$(this).find('img.selected').css('opacity', 1);
+								}
+							});
+						}
+						previewChanges();
+					}, 1000);
+
+				});
+
+		$(document).ready(function() {
+			flag = true;
+			//showDefaultLeftMenu(true);
+			$('.navigation a').each(function(){
+				if (!$(this).hasClass('external-link')) {
+					$(this).attr('href','http://'+ window.location.host+$(this).attr('href'));
+				}
+			});
+			$('.footer ul.links a.link').each(function(){
+				var c = $(this);
+				if(!c.hasClass('not-needed')) {
+					if(c.hasClass('secure')) {
+						c.attr('href','https://'+ window.location.host+$(this).attr('href'));
+					} else {
+						c.attr('href','http://'+ window.location.host+$(this).attr('href'));
+					}
+				}
+			});
+		});
+	
+	</script><meta property="og:title" content="Government Surplus Auctions at Government Liquidation"><meta property="og:description" content="Bid on military surplus and government surplus auctions at Government Liquidation, your direct source for army surplus, navy surplus, air force surplus and government auctions on military vehicles, medical and dental equipment."><meta property="og:type" content="website"><meta property="og:url" content="http://www.govliquidation.com/"><meta property="og:image" content="http://www.govliquidation.com/aucimg/banners/0/bnr.kho.GL-logo.jpg"></head><body>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-59WH98" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-59WH98');</script><!-- End Google Tag Manager --><div class="container grey">
+<div class="header">
+	<div class="logo-con">
+		<a href="/">
+			<div class="logo"></div>
+		</a>
+	</div>
+	<div class="logged-in-user">
+		<ul><li id="loginInf">
+			<li><label>Have questions? <a target="_blank" class="live-help link not-needed" href="https://chat.liquidityservices.com/lsi_chat/"><span class="livehelp">Live Help</span></a> is available</label></li>
+		</ul></div>
+	<div class="search-con">
+		<input id="searchText" type="text" size="50"><select id="location" name="location"><option value="AK,AL,AR,AZ,CA,CO,CT,DC,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,MD,ME,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY" selected>Any State</option><option value="AL">Alabama</option><option value="AK">Alaska</option><option value="AZ">Arizona</option><option value="AR">Arkansas</option><option value="CA">California</option><option value="CO">Colorado</option><option value="CT">Connecticut</option><option value="DE">Delaware</option><option value="DC">District of Columbia</option><option value="FL">Florida</option><option value="GA">Georgia</option><option value="HI">Hawaii</option><option value="ID">Idaho</option><option value="IL">Illinois</option><option value="IN">Indiana</option><option value="IA">Iowa</option><option value="KS">Kansas</option><option value="KY">Kentucky</option><option value="LA">Louisiana</option><option value="ME">Maine</option><option value="MD">Maryland</option><option value="MA">Massachusetts</option><option value="MI">Michigan</option><option value="MN">Minnesota</option><option value="MS">Mississippi</option><option value="MO">Missouri</option><option value="MT">Montana</option><option value="NE">Nebraska</option><option value="NV">Nevada</option><option value="NH">New Hampshire</option><option value="NJ">New Jersey</option><option value="NM">New Mexico</option><option value="NY">New York</option><option value="NC">North Carolina</option><option value="ND">North Dakota</option><option value="OH">Ohio</option><option value="OK">Oklahoma</option><option value="OR">Oregon</option><option value="PA">Pennsylvania</option><option value="RI">Rhode Island</option><option value="SC">South Carolina</option><option value="SD">South Dakota</option><option value="TN">Tennessee</option><option value="TX">Texas</option><option value="UT">Utah</option><option value="VT">Vermont</option><option value="VA">Virginia</option><option value="WA">Washington</option><option value="WV">West Virginia</option><option value="WI">Wisconsin</option><option value="WY">Wyoming</option></select><button id="btnSearch" class="track-ga" data-ga-category="Auction Search" data-ga-action="Basic">Search</button>
+	</div>
+	<div class="flt-right">
+		<ul><li>
+				<a href="/register" id="register-button"><img src="/bu/themes/images/Register-button.jpg" height="20" width="59" border="0" title="Register"></a>
+				<a href="/account/main"><img src="/bu/themes/images/My-Account-button.jpg" height="20" width="76" border="0" title="My Account"></a>
+			</li>
+		</ul></div>
+	<div class="navigation medium">
+		<ul><li class="dark"><a href="/">Home</a></li>
+			<li><a href="/auction/search">Advanced Search</a></li>
+			<li class="dark"><a href="/events">Event Calendar</a></li>
+			<li><a href="/bu/locations">Locations</a></li>
+			<li class="dark"><a href="/c/about.html">About Us</a></li>
+			<li><a href="/c/contact.html">Contact Us</a></li>
+			<li class="dark"><a href="/c/help.html">Help</a></li>
+			<li class="flt-right"><a name="sell-your-surplus" href="https://www.liquidityservices.com/capital-assets-services">Sell Your Surplus</a></li>
+		</ul></div>
+	<div class="clear"></div>
+</div>
+<div class="clear"></div>
+
+<div class="main-body">
+	<!-- Start CMS Banner gl-homepage -->
+<style>
+#header, #overheader {
+    display:block;
+    float:left;
+    height:220px;
+    width:970px;
+}
+#overheader {
+    opacity:0;
+}
+.overlink {
+    display:block;
+    position:absolute;
+}
+.boots {
+    width:100px;
+    height:90px;
+    margin-top:120px;
+    margin-left:470px;
+}
+.ammocan {
+    width:60px;
+    height:60px;
+    margin-top:85px;
+    margin-left:610px;
+}
+.truck {
+    width:435px;
+    height:190px;
+    margin-top:20;
+    margin-left:10;
+}
+.aircraft {
+    width:170px;
+    height:80px;
+    margin-top:5px;
+    margin-left:460px;
+}
+.trailer {
+    width:120px;
+    height:70px;
+    margin-top:35px;
+    margin-left:720px;
+}
+.tires {
+    width:240px;
+    height:100px;
+    margin-top:110px;
+    margin-left:720px;
+}
+#seasonal_banner, #kid_saluting_banner {
+    display: none;
+}
+</style><div class="TopFullWidth" style="">
+    <div id="seasonal_banner">
+        <img id="imgGovernmentLiquidation" src="" alt="Government Liquidation" style="display: none;"><img id="imgMilitaryTruck" src="" alt="Military Truck" style="display: none;"><img id="imgSurplusBoots" src="" alt="Surplus Boots" style="display: none;"><img id="imgAircraftParts" src="" alt="Aircraft Parts" style="display: none;"><img id="imgAmmoCans" src="" alt="Ammo Cans" style="display: none;"><img id="imgTrailer" src="" alt="Trailer" style="display: none;"><img id="imgSurplusTires" src="" alt="Surplus Tires" style="display: none;"><div id="header">
+            <div id="overheader">
+                <a id="aMilitaryTruck" href="/auction/search?cmd=results&amp;lvl1=15" name="Military%20Truck" alt="Military Truck" class="overlink truck" onmouseover="showGray($('#imgMilitaryTruck').attr('src'))" onmouseout="hideGray()"></a>
+                <a id="aSurplusBoots" href="/auction/search?cmd=results&amp;fromsearch=true&amp;words=boots&amp;categoryId=1002-BUX" name="Surplus%20Boots" alt="Surplus Boots" class="overlink boots" onmouseover="showGray($('#imgSurplusBoots').attr('src'))" onmouseout="hideGray()"></a>
+                <a id="aAmmoCans" href="/auction/search?cmd=results&amp;fromsearch=true&amp;words=ammo%20cans" name="Ammo%20Cans" alt="Ammo Cans" class="overlink ammocan" onmouseover="showGray($('#imgAmmoCans').attr('src'))" onmouseout="hideGray()"></a>
+                <a id="aAircraftParts" href="/auction/search?cmd=results&amp;lvl1=1" name="Aircraft%20Parts" alt="Aircraft Parts" class="overlink aircraft" onmouseover="showGray($('#imgAircraftParts').attr('src'))" onmouseout="hideGray()"></a>
+                <a id="aTrailer" href="/auction/search?cmd=results&amp;words=trailer&amp;categoryId=1002-BUX" name="Trailer" alt="Trailer" class="overlink trailer" onmouseover="showGray($('#imgTrailer').attr('src'))" onmouseout="hideGray()"></a>
+                <a id="aSurplusTires" href="/auction/search?cmd=results&amp;fromsearch=true&amp;words=tires&amp;categoryId=1002-BUX" name="Surplus%20Tires" alt="Surplus Tires" class="overlink tires" onmouseover="showGray($('#imgSurplusTires').attr('src'))" onmouseout="hideGray()"></a>
+            </div>
+        </div>
+    </div>
+    <div id="kid_saluting_banner">
+        <img width="970" height="220" border="0" usemap="#homepage_banner_1-1" src="/aucimg/banners/0/bnr.gsc.Homepage-BUX2.jpg"><map name="homepage_banner_1-1"><area shape="rect" coords="550,29,921,215" alt="Military Trucks" title="Military Trucks" href="/auction/search?cmd=results&amp;lvl1=15"><area shape="poly" coords="103,66,82,65,36,96,39,126,87,157,78,214,269,217,247,149,209,123,188,123,172,125,158,123,143,114,127,105,122,101,111,99,115,109,105,118,95,109,109,95,117,84" alt="Military Clothing" title="Military Clothing" href="/auction/search?cmd=results&amp;fromsearch=true&amp;words=jacket&amp;categoryId=1002-BUX"><area shape="poly" coords="81,159,74,212,4,212,2,74,19,70,39,69,49,78,33,91,33,130" alt="Aircraft Parts" title="Aircraft Parts" href="/auction/search?cmd=results&amp;lvl1=1"><area shape="poly" coords="223,63,229,103,239,115,236,124,239,138,250,146,256,168,264,167,307,144,288,98,262,74,244,60" alt="Aircraft Parts" title="Aircraft Parts" href="/auction/search?cmd=results&amp;lvl1=1"><area shape="poly" coords="132,53,139,39,153,30,164,34,174,35,180,30,193,32,204,43,202,53,195,53,183,50,178,41,166,40,166,48,160,51,140,54" alt="Goggles" title="Goggles" href="/auction/search?cmd=results&amp;fromsearch=true&amp;words=goggle&amp;categoryId=1002-BUX"><area shape="poly" coords="206,50,220,62,227,103,231,116,231,125,223,123,206,118,195,118,193,109,203,92,203,79,197,62" alt="Helmet" title="Helmet" href="/auction/search?cmd=results&amp;lvl1=14"><area shape="poly" coords="126,86,140,84,145,99,152,112,164,121,153,117,138,107,124,102" alt="Helmet" title="Helmet" href="/auction/search?cmd=results&amp;lvl1=14"></map></div>
+</div>
+<script type="text/javascript">
+var seasonImagesData = [{
+
+        "season" : "spring",
+
+        "srcGovernmentLiquidation" : "/aucimg/banners/0/bnr.igc.old-base-color.jpg",
+        "srcMilitaryTruck"         : "/aucimg/banners/0/bnr.igd.old-base-trucks.jpg",
+        "srcSurplusBoots"          : "/aucimg/banners/0/bnr.ige.old-base-boots.jpg",
+        "srcAircraftParts"         : "/aucimg/banners/0/bnr.igf.old-base-aircrafts.jpg",
+        "srcAmmoCans"              : "/aucimg/banners/0/bnr.igg.old-base-ammocan.jpg",
+        "srcTrailer"               : "/aucimg/banners/0/bnr.igh.old-base-trailers.jpg",
+        "srcSurplusTires"          : "/aucimg/banners/0/bnr.igi.old-base-tires.jpg"
+
+    },{
+
+        "season" : "summer",
+
+        "srcGovernmentLiquidation" : "/aucimg/banners/0/bnr.imi.old-base-su-color.jpg",
+        "srcMilitaryTruck"         : "/aucimg/banners/0/bnr.imj.old-base-su-trucks.jpg",
+        "srcSurplusBoots"          : "/aucimg/banners/0/bnr.imk.old-base-su-boots.jpg",
+        "srcAircraftParts"         : "/aucimg/banners/0/bnr.iml.old-base-su-aircraft.jpg",
+        "srcAmmoCans"              : "/aucimg/banners/0/bnr.imm.old-base-su-ammo-cans.jpg",
+        "srcTrailer"               : "/aucimg/banners/0/bnr.imn.old-base-su-trailers.jpg",
+        "srcSurplusTires"          : "/aucimg/banners/0/bnr.imo.old-base-su-tires.jpg"
+
+    },{
+
+        "season" : "summer_rain",
+
+        "srcGovernmentLiquidation" : "/aucimg/banners/0/bnr.imp.old-base-su-rain-color.jpg",
+        "srcMilitaryTruck"         : "/aucimg/banners/0/bnr.imv.old-base-su-rain-trucks.jpg",
+        "srcSurplusBoots"          : "/aucimg/banners/0/bnr.imq.old-base-su-rain-boots.jpg",
+        "srcAircraftParts"         : "/aucimg/banners/0/bnr.imr.old-base-su-rain-aircraft.jpg",
+        "srcAmmoCans"              : "/aucimg/banners/0/bnr.ims.old-base-su-rain-ammo-cans.jpg",
+        "srcTrailer"               : "/aucimg/banners/0/bnr.imt.old-base-su-rain-trailers.jpg",
+        "srcSurplusTires"          : "/aucimg/banners/0/bnr.imu.old-base-su-rain-tires.jpg"
+
+    },{
+
+        "season" : "fall",
+
+        "srcGovernmentLiquidation" : "/aucimg/banners/0/bnr.ivk.old-base-fall-color.jpg",
+        "srcMilitaryTruck"         : "/aucimg/banners/0/bnr.ive.old-base-fall-trucks.jpg",
+        "srcSurplusBoots"          : "/aucimg/banners/0/bnr.ivf.old-base-fall-boots.jpg",
+        "srcAircraftParts"         : "/aucimg/banners/0/bnr.ivg.old-base-fall-aircraft.jpg",
+        "srcAmmoCans"              : "/aucimg/banners/0/bnr.ivh.old-base-fall-ammo-cans.jpg",
+        "srcTrailer"               : "/aucimg/banners/0/bnr.ivi.old-base-fall-trailers.jpg",
+        "srcSurplusTires"          : "/aucimg/banners/0/bnr.ivj.old-base-fall-tires.jpg"
+
+    },{
+
+        "season" : "fall_rain",
+
+        "srcGovernmentLiquidation" : "/aucimg/banners/0/bnr.ivl.old-base-fall-rain-color.jpg",
+        "srcMilitaryTruck"         : "/aucimg/banners/0/bnr.ivm.old-base-fall-rain-trucks.jpg",
+        "srcSurplusBoots"          : "/aucimg/banners/0/bnr.ivn.old-base-fall-rain-boots.jpg",
+        "srcAircraftParts"         : "/aucimg/banners/0/bnr.ivo.old-base-fall-rain-aircraft.jpg",
+        "srcAmmoCans"              : "/aucimg/banners/0/bnr.ivp.old-base-fall-rain-ammo-cans.jpg",
+        "srcTrailer"               : "/aucimg/banners/0/bnr.ivq.old-base-fall-rain-trailers.jpg",
+        "srcSurplusTires"          : "/aucimg/banners/0/bnr.ivr.old-base-fall-rain-tires.jpg"
+
+    },{
+
+        "season" : "snow_day_t",
+
+        "srcGovernmentLiquidation" : "/aucimg/banners/0/bnr.jfc.old-base-snow.jpg",
+        "srcMilitaryTruck"         : "/aucimg/banners/0/bnr.jfb.old-base-snow-trucks.jpg",
+        "srcSurplusBoots"          : "/aucimg/banners/0/bnr.jey.old-base-snow-boots.jpg",
+        "srcAircraftParts"         : "/aucimg/banners/0/bnr.jew.old-base-snow-aircraft.jpg",
+        "srcAmmoCans"              : "/aucimg/banners/0/bnr.jex.old-base-snow-ammo-cans.jpg",
+        "srcTrailer"               : "/aucimg/banners/0/bnr.jfa.old-base-snow-trailers.jpg",
+        "srcSurplusTires"          : "/aucimg/banners/0/bnr.jez.old-base-snow-tires.jpg"
+
+    },{
+
+        "season" : "snow_night_t",
+
+        "srcGovernmentLiquidation" : "/aucimg/banners/0/bnr.jfj.old-base-snownight.jpg",
+        "srcMilitaryTruck"         : "/aucimg/banners/0/bnr.jfm.old-base-snownight-trucks.jpg",
+        "srcSurplusBoots"          : "/aucimg/banners/0/bnr.jff.old-base-snownight-boots.jpg",
+        "srcAircraftParts"         : "/aucimg/banners/0/bnr.jfd.old-base-snownight-aircraft.jpg",
+        "srcAmmoCans"              : "/aucimg/banners/0/bnr.jfe.old-base-snownight-ammo-cans.jpg",
+        "srcTrailer"               : "/aucimg/banners/0/bnr.jfh.old-base-snownight-trailers.jpg",
+        "srcSurplusTires"          : "/aucimg/banners/0/bnr.jfg.old-base-snownight-tires.jpg"
+
+    },{
+
+        "season" : "snow_day",
+
+        "srcGovernmentLiquidation" : "/aucimg/banners/0/bnr.idx.old-base-w-color.jpg",
+        "srcMilitaryTruck"         : "/aucimg/banners/0/bnr.iea.old-base-w-trucks.jpg",
+        "srcSurplusBoots"          : "/aucimg/banners/0/bnr.idw.old-base-w-boots.jpg",
+        "srcAircraftParts"         : "/aucimg/banners/0/bnr.idu.old-base-w-aircrafts.jpg",
+        "srcAmmoCans"              : "/aucimg/banners/0/bnr.idv.old-base-w-ammocan.jpg",
+        "srcTrailer"               : "/aucimg/banners/0/bnr.idz.old-base-w-trailers.jpg",
+        "srcSurplusTires"          : "/aucimg/banners/0/bnr.idy.old-base-w-tires.jpg"
+
+    },{
+
+        "season" : "snow_night",
+
+        "srcGovernmentLiquidation" : "/aucimg/banners/0/bnr.jfr.old-base-wn-color.jpg",
+        "srcMilitaryTruck"         : "/aucimg/banners/0/bnr.jfs.old-base-wn-trucks.jpg",
+        "srcSurplusBoots"          : "/aucimg/banners/0/bnr.jfu.old-base-wn-boots.jpg",
+        "srcAircraftParts"         : "/aucimg/banners/0/bnr.jft.old-base-wn-aircraft.jpg",
+        "srcAmmoCans"              : "/aucimg/banners/0/bnr.jfv.old-base-wn-ammo-cans.jpg",
+        "srcTrailer"               : "/aucimg/banners/0/bnr.jfw.old-base-wn-trailers.jpg",
+        "srcSurplusTires"          : "/aucimg/banners/0/bnr.jfx.old-base-wn-tires.jpg"
+
+}];
+
+$(function() {
+    var currentDate = new Date();
+    var currentHour = currentDate.getHours();
+    switch(true) {
+        case (currentHour >= 0 && currentHour < 6):
+            $('#kid_saluting_banner').show();
+            break;
+        case (currentHour >= 6 && currentHour < 12):
+            assignImages('summer');
+            $('#seasonal_banner').show();
+            break;
+        case (currentHour >= 12 && currentHour < 18):
+            $('#kid_saluting_banner').show();
+            break;
+        case (currentHour >= 18):
+            assignImages('summer_rain');
+            $('#seasonal_banner').show();
+            break;
+        default:
+            assignImages('summer');
+            $('#seasonal_banner').show();
+    }
+});
+
+function assignImages(season){
+    var data = $.grep(seasonImagesData, function (e) {
+        return e.season === season
+    });
+
+    $('#header').css('background','url("' +    data[0].srcGovernmentLiquidation + '") no-repeat left top');
+    $('#imgGovernmentLiquidation').attr('src', data[0].srcGovernmentLiquidation);
+    $('#imgMilitaryTruck').attr('src',         data[0].srcMilitaryTruck        );
+    $('#imgSurplusBoots').attr('src',          data[0].srcSurplusBoots         );
+    $('#imgAircraftParts').attr('src',         data[0].srcAircraftParts        );
+    $('#imgAmmoCans').attr('src',              data[0].srcAmmoCans             );
+    $('#imgTrailer').attr('src',               data[0].srcTrailer              );
+    $('#imgSurplusTires').attr('src',          data[0].srcSurplusTires         );
+}
+
+function showGray(fileName) {
+    $('#overheader').stop(true, true);
+    $('#overheader').css('opacity', '0');
+    $('#overheader').css('background-image', "url('" + fileName + "')").animate({ opacity: 1.0 }, 500);
+}
+
+function hideGray() {
+    $('#overheader').animate({ opacity: 0 }, 800, "linear");
+}
+</script><!-- End CMS Banner gl-homepage --><div class="left-column">
+		<ul class="left-navigation"><!-- Start CMS Banner gl-browse-by-category --><style>
+.left-navigation li .sub-menu {padding-top:5px; padding-bottom: 2px;}
+#leftCategories li a:hover {text-decoration: underline; color: #535641;}
+</style><li class="light header">Browse by Category</li>
+<li>
+    <ul class="sub-menu main-menu" id="leftCategories"><li><a href="/Aircraft-Parts.html">Aircraft Parts</a></li>
+        <li><a href="/c/Ammo-Cans-Tanks-and-Containers.html">Ammo Cans &amp; Containers</a></li>
+        <li><a href="/c/Appliances-and-Food-Service.html">Appliances &amp; Food Service</a></li>
+        <li><a href="/Audio-Video-Photo.html">Audio Video Photo</a></li>
+        <li><a href="/Boats-and-Marine.html">Boats &amp; Marine</a></li>
+        <li><a href="/Clothing-Footwear-and-Field-Gear.html">Clothing &amp; Field Gear</a></li>
+        <li><a href="/Computer-Equipment.html">Computer Equipment</a></li>
+        <li><a href="/c/Construction-and-Material-Handling-Equipment.html">Construction &amp; MHE</a></li>
+        <li><a href="/Electrical-Equipment.html">Electrical Equipment</a></li>
+        <li><a href="/c/Fitness-and-Recreation.html">Fitness &amp; Recreation</a></li>
+        <li><a href="/Home-and-Office-Furniture.html">Home &amp; Office Furniture</a></li>
+        <li><a href="/Industrial-Equipment.html">Industrial Equipment</a></li>
+        <li><a href="/Machinery.html">Machinery</a></li>
+        <li><a href="/Medical-and-Dental.html">Medical &amp; Dental</a></li>
+        <li><a href="/Plumbing-and-HVAC.html">Plumbing &amp; HVAC</a></li>
+        <li><a href="/Scrap-Metal.html">Scrap Metal</a></li>
+        <li><a href="/c/Shop-Equipment.html">Shop Equipment</a></li>
+        <li><a href="/Test-and-Measurement-Equipment.html">Test &amp; Measure Equipment</a></li>
+        <li><a href="/Vehicles-Parts-and-Components.html">Vehicles &amp; Parts</a></li>
+    </ul></li>
+<!-- End CMS Banner gl-browse-by-category -->
+		</ul><!-- Start CMS Banner gl-homepage-side --><!-- Side Banner Newsletter Opt-in form and Suplus TV --><div class="Side" style="">
+    <div id="theParachuteActiveForm" style="float:left; border: 1px solid silver; margin-bottom: 10px;">
+        <center style="padding: 3px 0px; margin: 4px;">
+            <img src="/c/newsletter-signup-popup-text.jpg" width="100%"><i>What's all this you ask?</i><br>
+            Sign up for<br><i><b>THE PARACHUTE</b></i><br><small>(GL's Weekly Publication)</small><br><form method="post" name="GL_Newsletter_Subscribe_Form_For_Website" action="https://s1526081490.t.eloqua.com/e/f2" id="form699" onsubmit="$.ga.trackEvent({ category : 'User', action : 'Newsletter Subscription', label : 'Side Nav Form'}); return true;">
+                <input type="hidden" name="elqCampaignId"><input type="hidden" name="elqFormName" value="GL_Newsletter_Subscribe_Form_For_Website"><input type="hidden" name="elqSiteId" value="1526081490"><input type="text" name="firstName" value="" placeholder="first name" required><input type="email" name="emailAddress" value="" placeholder="email" required><input type="submit" value="PULL THE RIP CORD"></form>
+        </center>
+    </div>
+<div style="clear: both;">
+    <a style="text-decoration: none;" name="surplus-tv" href="/c/surplus-tv.html">
+            <img src="/aucimg/banners/0/bnr.rrz.gl-surplus-tv-homepage-side-175x113.jpg" width="175" height="113" border="0" alt="surplus-tv" title="surplus-tv"></a>
+</div>
+</div>
+<!-- /Side Banner Newsletter Opt-in form and Suplus TV -->
+
+
+
+<!-- VISISTAT SNIPPET -->
+<script type="text/javascript">
+//<![CDATA[
+var DID=237003;
+var pcheck=(window.location.protocol == "https:") ? "https://sniff.visistat.com/live.js":"http://stats.visistat.com/live.js";
+document.writeln('<scr'+'ipt src="'+pcheck+'" type="text\/javascript"><\/scr'+'ipt>');
+//]]>
+</script><!-- /VISISTAT SNIPPET --><!-- Fix for Sell-Your-Surplus text navigation link top right corner on homepage --><script>
+$(function(){
+    $("a[name='sell-your-surplus']").attr("href","https://www.liquidityservices.com/capital-assets-services");
+});
+</script><!-- /Fix for Sell-Your-Surplus text navigation link top right corner on homepage --><!-- Newsletter Opt-in Popup --><style>
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 100; /* Sit on top */
+    padding-top: 20px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.5); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+    padding: 10px 20px 20px 20px;
+    width: 500px;
+    left: 50%;
+    transform: translate(-50%);
+    top: 100px;
+    position: fixed;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.modal-content,
+#theParachuteActiveForm center {
+    background-color: #000;
+    margin: auto;
+    border: 1px solid #666;
+    color: #FFF;
+    float: left;
+}
+.modal-content i b,
+#theParachuteActiveForm center i b {
+    font-size: 11px;
+    font-family: Verdana;
+}
+.modal-content i b {
+    font-size: 24px!important;
+}
+.modal-content input[type=submit],
+#theParachuteActiveForm center input[type=submit] {
+    background-color: #4CAF50;
+    border: none;
+    color: black;
+    text-decoration: inclined;
+    cursor: pointer;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 11px;
+    border-radius: 4px;
+}
+.modal-content input[type=submit] {
+    padding: 5px 16px;
+    font-size: 13px!important;
+}
+
+/* The Close Button */
+.close {
+    color: #53c812;
+    float: right;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: Verdana;
+    margin-top: -25px;
+    margin-right: -30px;
+}
+
+.close:hover,
+.close:focus {
+    color: lightgreen;
+    text-decoration: none;
+    cursor: pointer;
+}
+#theParachuteActiveForm center input:not([type='hidden']) {    
+    margin: 5px 0 0;
+}
+</style><!-- The Modal --><div id="theParachuteModal" class="modal">
+  <div class="modal-content">
+    <span class="close">&#9447;</span>
+    <center>
+        <img src="/c/newsletter-signup-popup-text.jpg" width="100%"><i>What's all this you ask?</i><br>
+        Sign up for<br><i><b>THE PARACHUTE</b></i><br><small>(GL's Weekly Publication)</small><br>
+        to find out...<br><form method="post" name="GL_Newsletter_Subscribe_Form_For_Website" action="https://s1526081490.t.eloqua.com/e/f2" id="form699" onsubmit="$.ga.trackEvent({ category : 'User', action : 'Newsletter Subscription', label : 'Pop-up Form'}); return true;">
+            <input type="hidden" name="elqCampaignId"><input type="hidden" name="elqFormName" value="GL_Newsletter_Subscribe_Form_For_Website"><input type="hidden" name="elqSiteId" value="1526081490"><input type="text" name="firstName" value="" placeholder="first name" required><input type="email" name="emailAddress" value="" placeholder="email" required><input type="submit" value="PULL THE RIP CORD"></form>
+    </center>
+  </div>
+</div>
+
+<script>
+// When the DOM is ready open the modal after 5 seconds
+$(function() {
+    setTimeout(openModal,5000);
+
+    // When the user clicks the X in the modal, close it
+    $("#theParachuteModal .close").click(function() {
+        $(this).parent().parent().css('display','none');
+    });
+
+    // When the escape key is pressed close the modal
+    $(document).keyup(function(e) {
+        if (e.keyCode == 27) { // escape key maps to keycode `27`
+            $('.modal').css('display','none');
+        }
+    });
+
+    $("form").submit(function(event) {
+        setCookie('theParachuteOptedIn','Yes','90');
+        return true;
+    });
+});
+
+function openModal() {
+    //Show the Parachute Opt-in popup modal only once per session (30 days)
+    if ( getCookie('theParachuteDisplayed') == null &&
+         getCookie('theParachuteOptedIn') == null ) {
+        $('#theParachuteModal').css('display','block');
+        setCookie('theParachuteDisplayed','Yes','30');
+    }
+};
+</script><!-- /Newsletter Opt-in Popup --><!-- End CMS Banner gl-homepage-side --></div>
+	<div class="right-column">
+		<!-- Start CMS Banner gl-homepage-top-body-width -->
+<style>
+@font-face {
+    font-family: 'BigCaslon-SCap-GL';
+    src: url('/bu/fonts/BigCaslon-SCap.eot?#iefix') format('embedded-opentype'),
+         url('/bu/fonts/BigCaslonSmCap-GL.woff') format('woff'),
+         url('/bu/fonts/BigCaslonSmCap-GL.ttf')  format('truetype'),
+         url('/bu/fonts/BigCaslonSmCap-GL.otf')  format('opentype'),
+         url('/bu/fonts/BigCaslonSmCap-GL.svg#svgFontName') format('svg');
+}
+.title-top {
+    margin-top: 99px;
+}
+@media not all and (min-resolution:.001dpcm) {
+    @media {
+        .safari-two {
+            margin-top: 96px;
+        }
+    }
+}
+_::-webkit-full-page-media, _:future, :root .safari-two {
+    margin-top: 96px;
+}
+</style><div class="TopBodyWidth">
+    <!-- make an offer banner -->
+    <div id="text-banner" style="margin-top: 2px; margin-bottom: 10px;">
+        <a name="Make%20an%20Offer" href="/events?cmd=details&amp;event=13669">
+            <img src="/aucimg/banners/0/bnr.rqd.gl-homepage-top-body-width--make_an_offer.jpg" width="775" height="84" border="0" alt="Make an Offer" title="Make an Offer"></a>
+        <br></div>
+
+    <!-- USRO banner -->
+    <div id="USRO-banner">
+        <a name="USRO-top-body-width-banner" href="http://www.unclesamsretailoutlet.com" target="_blank">
+            <img src="/aucimg/banners/0/bnr.rsc.gl-homepage-USRO--775x86.jpg" width="775" height="86" border="0" alt="Uncle Sam's Retail Outlet" title="Uncle Sam's Retail Outlet"></a>
+        <br></div>
+
+        <a style="text-decoration: none;" name="gl-homepage-top-body-width-ford-model_A-sport-coupe" alt="banner-ford-model_A-sport-coupe" href="http://www.govliquidation.com/auction/view?auctionId=12494869&amp;convertTo=USD">
+        <div><img src="/aucimg/banners/0/bnr.rtc.gl-homepage-top-body-width-1930-ford-model_A-sport-coupe.jpg" width="775" height="129" border="0"></div>
+        <div class="title-top safari-two" style="margin: -30px 0 10px 15px; line-height: 30px;">
+            <span style="font-family: BigCaslon-SCap-GL; font-size: 26px; color: #7a766c;">Shop 1930 Ford Model A Sport Coupe &gt;</span>
+        </div>
+    </a>
+</div>
+<!-- End CMS Banner gl-homepage-top-body-width -->
+		<div id="carouselContainer">
+		</div>
+		
+	</div>
+	<div class="clear"></div>
+</div>
+<div class="main-body">
+	<!-- Start CMS Banner gl-homepage-bottom-full-width -->
+<style>
+@font-face {
+    font-family: 'BigCaslon-SCap-GL';
+    src: url('/bu/fonts/BigCaslon-SCap.eot?#iefix') format('embedded-opentype'),
+         url('/bu/fonts/BigCaslonSmCap-GL.woff') format('woff'),
+         url('/bu/fonts/BigCaslonSmCap-GL.ttf') format('truetype'),
+         url('/bu/fonts/BigCaslonSmCap-GL.otf') format('opentype'),
+         url('/bu/fonts/BigCaslonSmCap-GL.svg#svgFontName') format('svg');
+}
+.title {
+    margin-top: 61px;
+}
+@media not all and (min-resolution:.001dpcm) {
+    @media {
+        .safari {
+            margin-top: 56px;
+        }
+    }
+}
+_::-webkit-full-page-media, _:future, :root .safari {
+    margin-top: 56px;
+}
+</style><div class="BottomFullWidth" style="margin-top: 15px;">
+    <a style="text-decoration: none;" name="gl-homepage-bottom-full-width-1948-lincoln-continental" alt="banner-1948-lincoln-continental" href="http://www.govliquidation.com/auction/view?auctionId=12509001&amp;convertTo=USD">
+        <div style="float: left;">
+             <img src="/aucimg/banners/0/bnr.mhv.gl-homepage-bottom-full-width-1948-lincoln-continental.jpg" width="970" height="90" border="0"></div>
+        <div class="title safari" style="float: left; margin-left: -955px;">
+             <span style="font-family: BigCaslon-SCap-GL; font-size: 27px; color: #a52e1a;">Shop 1948 Lincoln Continental &gt;</span>
+        </div>
+    </a>
+</div>
+<!-- End CMS Banner gl-homepage-bottom-full-width -->
+</div>
+<div class="clear"></div>
+<div class="main-body footer">
+	<ul class="links"><li class="column1"><a name="About%20Us" class="link" href="/c/about.html">About Us</a></li>
+		<li class="column1"><a name="Affiliate%20Program" class="link" href="/c/affiliate-program.html">Affiliate Program</a></li>
+		<li class="column1"><a name="Careers" style="color: #666666; font-size: 11px; text-decoration: underline;" href="http://www.liquidityservices.com/company/careers/" target="_blank">Careers</a></li>
+		<li class="column1"><a name="Contact%20Us" class="link" href="/c/contact.html">Contact Us</a></li>
+
+		<li class="column2 reset"><a name="Customer%20Stories" class="link" href="/c/customer-stories.html">Customer Stories</a></li>
+		<li class="column2"><a name="Email%20Alerts" class="link" href="/joinlist">Email Alerts</a></li>
+		<li class="column2"><a name="Event%20Calendar" class="link" href="/events">Event Calendar</a></li>
+		<li class="column2"><a name="FSC%20Codes" class="link" href="/bu/marketplace">FSC Codes</a></li>
+
+		<li class="column3 reset"><a name="Help" class="link" href="/c/help.html">Help</a></li>
+		<li class="column3"><a name="Home" class="link" href="/">Home</a></li>
+		<li class="column3"><a name="Hot%20Lots" class="link" href="/c/surplus-hot-lots.html">Hot Lots</a></li>
+		<li class="column3"><a name="Live%20Help" target="_blank" class="live-help link not-needed" href="https://chat.liquidityservices.com/lsi_chat/">Live Help</a></li>
+
+		<li class="column4 reset"><a name="Locations" class="link" href="/bu/locations">Locations</a></li>
+		<li class="column4"><a name="Login" class="link" href="/login">Login</a></li>
+		<li class="column4"><a name="My%20Account" class="link secure" href="/account/main">My Account</a></li>
+		<li class="column4"><a name="Past%20Bid%20Results" class="link" href="/pastbidresults">Past Bid Results</a></li>
+
+		<li class="column5 reset"><a name="Privacy%20Policy" class="link not-needed" href="https://www.liquidityservices.com/privacy-policy">Privacy Policy</a></li>
+		<li class="column5"><a name="Register" class="link secure" href="/register">Register</a></li>
+		<li class="column5"><a name="RSS%20Feeds" class="link" href="/c/rss-feeds.html">RSS Feeds</a></li>
+		<li class="column5"><a name="Search" class="link" href="/auction/search">Search</a></li>
+
+		<li class="column6 reset"><a name="Sell%20Your%20Surplus" class="link not-needed" href="https://www.liquidityservices.com/capital-assets-services">Sell Your Surplus</a></li>
+		<li class="column6"><a name="Shipping" class="link" href="/bu/shipping">Shipping</a></li>
+		<li class="column6"><a name="Surplus%20TV" class="link" href="/c/surplus-tv.html">Surplus TV</a></li>
+		<li class="column6"><a name="Terms%20and%20Conditions" class="link" href="/register/registration/terms">Terms and Conditions</a></li>
+	</ul><div class="clear"></div>
+	<div class="copyright">
+		Copyright &copy; 2001-2017 Government Liquidation, a <a name="LiquidityServices.com" href="http://www.liquidityservices.com" class="track-ga link" data-ga-category="Footer" data-ga-action="Partner Logos" data-ga-label="Liquidity Services.">Liquidity Services, Inc.</a> marketplace. All rights reserved.
+	</div>
+	<ul id="subsidiaries"><li>
+			<a name="LiquidityServices.com" target="_blank" href="http://www.liquidityservices.com" class="track-ga" data-ga-category="Footer" data-ga-action="Partner Logos" data-ga-label="LiquidityServices.com"><img src="/bu/themes/images/liquidityservices-logo.jpg" alt="LiquidityServices.com"></a>
+		</li>
+		<li id="separator">&nbsp;</li>
+		<li>
+			<ul><li style="margin-top: 15px;">
+					<a name="Liquidation.com" target="_blank" href="http://www.liquidation.com" class="track-ga" data-ga-category="Footer" data-ga-action="Partner Logos" data-ga-label="Liquidation.com">
+						<img src="/bu/themes/images/liquidation-logo.jpg" alt="Liquidation.com" height="24" border="0"></a>
+				</li>
+				<li style="margin-top: 14px;">
+					<a name="GovDeals.com" target="_blank" href="http://www.govdeals.com" class="track-ga" data-ga-category="Footer" data-ga-action="Partner Logos" data-ga-label="GovDeals">
+						<img src="/bu/themes/images/govdeals-logo.jpg" alt="GovDeals" height="25" border="0"></a>
+				</li>
+				<li style="margin-top: 6px;">
+					<a name="NetworkInternational.com" target="_blank" href="http://www.networkintl.com" class="track-ga" data-ga-category="Footer" data-ga-action="Partner Logos" data-ga-label="Network International">
+						<img src="/bu/themes/images/network-international-logo.jpg" alt="Network International" height="36" border="0"></a>
+				</li>
+				<li>
+					<a name="AuctionDeals.com" target="_blank" href="http://www.AuctionDeals.com" class="track-ga" data-ga-category="Footer" data-ga-action="Partner Logos" data-ga-label="Auction Deals">
+						<img src="/bu/themes/images/AuctionDeals.png" alt="Auction Deals" height="35" border="0"></a>
+				</li>
+				<li>
+					<a name="Go-Dove.com" target="_blank" href="http://www.go-dove.com" class="track-ga" data-ga-category="Footer" data-ga-action="Partner Logos" data-ga-label="GoIndustries">
+						<img src="/bu/themes/images/goindustry-logo.jpg" alt="GoIndustries" height="34" border="0"></a>
+				</li>
+				<li>
+					<a name="IronDirect.com" target="_blank" href="http://www.irondirect.com" class="track-ga" data-ga-category="Footer" data-ga-action="Partner Logos" data-ga-label="IronDirect">
+						<img src="/bu/themes/images/irondirect-logo.png" alt="IronDirect" height="34" width="85" border="0"></a>
+				</li>
+			</ul></li>
+	</ul><ul id="socialmedia"><li>
+			<a href="http://bit.ly/SurplusTV" target="_blank" title="View our videos on YouTube" class="track-ga" data-ga-category="Footer" data-ga-action="Third Party" data-ga-label="YouTube">
+				<img src="/images/youtube-icon.gif" alt="Facebook" width="25" height="25" border="0"></a>
+		</li>
+		<li>
+			<a href="http://bit.ly/GLonFacebook" target="_blank" title="Connect with us on Facebook" class="track-ga" data-ga-category="Footer" data-ga-action="Third Party" data-ga-label="Facebook">
+				<img src="/images/facebook-icon.jpg" alt="Facebook" width="25" height="25" border="0"></a>
+		</li>
+		<li>
+			<a href="http://bit.ly/GLtweets" target="_blank" title="Follow us on Twitter" class="track-ga" data-ga-category="Footer" data-ga-action="Third Party" data-ga-label="Twitter">
+				<img src="/images/twitter-icon.jpg" alt="Twitter" width="25" height="25" border="0"></a>
+		</li>
+		<li>
+			<a href="http://bit.ly/GLonLinkedIn" target="_blank" title="Connect with us on LinkedIn" class="track-ga" data-ga-category="Footer" data-ga-action="Third Party" data-ga-label="LinkedIn">
+				<img src="/images/linkedin-icon.jpg" alt="LinkedIn" width="25" height="25" border="0"></a>
+		</li>
+		<li>
+			<a href="http://bit.ly/GLPin" target="_blank" title="See us on Pinterest" class="track-ga" data-ga-category="Footer" data-ga-action="Third Party" data-ga-label="Pinterest">
+				<img src="/images/pinterest-icon.jpg" alt="Twitter" width="25" height="25" border="0"></a>
+		</li>
+		<li>
+			<a href="http://bit.ly/GLPlus" target="_blank" title="Follow us on Google+" class="track-ga" data-ga-category="Footer" data-ga-action="Third Party" data-ga-label="Google+">
+				<img src="/images/googleplus-icon.jpg" alt="Twitter" width="25" height="25" border="0"></a>
+		</li>
+	</ul></div>
+
+</div>
+
+</body></html>
+
+
+<hr><br>

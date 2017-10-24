@@ -1,0 +1,361 @@
+Depth: 1<br>URL: http://www.publicsurplus.com/sms/browse/cataucs?catid=19
+<br>CONTENT:<br>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head><title>Public Surplus: Aviation</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="template" content="ps/en/category.html"><link href="/smsweb/20170825/styles/pstilos2.css" rel="stylesheet" type="text/css"><script type="text/javascript">
+	onerror = function(msg,url,l){
+		var txt="_s=5b5e9db0aec477a3e701f61252e3b064&_r=img";
+		txt+="&Msg="+escape(msg);
+		txt+="&URL="+escape(url);
+		txt+="&Line="+l;
+		txt+="&Platform="+escape(navigator.platform);
+		txt+="&UserAgent="+escape(navigator.userAgent);
+		var i = document.createElement("img");
+		i.setAttribute("src", (("https:" == document.location.protocol) ? "https://errorstack.appspot.com" : "http://www.errorstack.com") + "/submit?" + txt);
+		document.body.appendChild(i);
+	}
+	</script><script language="JavaScript" type="text/javascript" src="/smsweb/20170825/js/scriptaculous-js-1.8.0/lib/prototype.js"></script><script language="JavaScript" type="text/javascript" src="/smsweb/20170825/js/scriptaculous-js-1.8.0/src/effects.js"></script><script language="JavaScript" type="text/javascript" src="/smsweb/20170825/js/PopMenu.js"></script><script language="JavaScript" type="text/javascript" src="/smsweb/20170825/js/lightbox-1.2.js"></script><link href="/smsweb/20170825/styles/lightbox-1.2.css" rel="stylesheet" type="text/css"><script type="text/javascript">
+function Auction_PopupWindow(thispage, name, params) {
+if (name == null) { name = "pop"; }
+ thiswindow = window.open(thispage,'psw_'+name,params);
+}
+function loggingOut() {
+ if (confirm('Are you sure you want to logout?')) {
+   self.location.href="/sms/login/logout";
+ }
+}
+function loggingIn() {
+  var currLoc;
+  if (self.location.pathname && self.location.pathname.indexOf("/login/") < 0 && self.location.pathname.indexOf("/about/") < 0) {
+    currLoc = "?&dst=" + escape(self.location.pathname.substring("/sms".length) + self.location.search);
+  }
+  else {
+    currLoc = "";
+  }
+  self.location.href="/sms/login/login" + currLoc;
+}
+
+ function jsSmsUrl(service,owp) {
+  var url = "/sms";
+  if (owp == null) {
+     url = url + "/";
+  }
+  else if (owp != "") {
+     url = url + "/" + owp;
+  }
+  url = url + service;
+  return url;
+}
+ 
+ function sort(sorttype) {
+  document.regform.sortBy.value = sorttype;
+  document.regform.page.value = 0;
+  document.regform.submit();
+  
+ }
+ function srchPage(pageNumber) {
+  document.regform.page.value = pageNumber;
+  document.regform.submit();
+ }
+ function listimg(stat) {
+   document.regform.slth.value = stat;
+   document.regform.submit();
+ }
+ 
+ function initPage()
+{
+Lightbox.initialize({animate:false,enableSlideshow:false,resizeSpeed:10,showGroupName:false, strings : {closeLink : '[Close]',loadingMsg : 'loading',nextLink : '[Next &raquo;]',prevLink : '[&laquo; Prev]',startSlideshow : 'start slideshow',stopSlideshow : 'stop slideshow',numDisplayPrefix : 'Image',numDisplaySeparator : 'of',helpText: 'Hover to enlarge the picture'},zoom:false,enableRotation:false });
+
+}
+ 
+ 
+
+</script><script type="text/javascript">
+
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-389853-1']);
+	  _gaq.push(['_setDomainName', 'www.publicsurplus.com']);
+	  _gaq.push(['_setAllowLinker', true]);
+	  _gaq.push(['_setAllowHash', false]);
+	  _gaq.push(['_trackPageview']); 
+	 
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })(); 
+	 
+	</script></head><body onload="initPage();"><a class="skiplink" href="#startcontent" style="display:none;">Skip over navigation</a><div class="baseDiv">
+<div style="position: relative;">
+<div id="langdiv" class="spsLangPosition" onmouseover="$('langlistdiv').show();" onmouseout="$('langlistdiv').hide();">
+  	<script type="text/javascript">
+  		function base_changeLangugage(locale) {
+  	  		if (locale == null) { return; }
+  	  		new Ajax.Request('/sms/about/home.html?locale='+locale, {
+  	  	  		onComplete: function() {
+  	  	  			document.location.reload();
+  	  			}
+  	  		});
+  		}
+  	</script><div class="spsLangMenu"><a><img style="vertical-align: top; padding-top: 2px;" alt="English" src="/smsweb/20170825/images/ps/en.png">  English
+  <img style="vertical-align: middle;" alt="More Languages" src="/smsweb/20170825/images/ps/langTriangle.png"></a></div>
+	<div id="langlistdiv" class="spsLangList" style="display: none;">
+			<ul><li><a href="javascript:base_changeLangugage('es');"></a><img style="vertical-align: top; padding-top: 2px;" alt="Spanish" src="/smsweb/20170825/images/ps/es.png">  Spanish
+</li>
+				<li><a href="javascript:base_changeLangugage('fr');"></a><img style="vertical-align: top; padding-top: 2px;" alt="French" src="/smsweb/20170825/images/ps/fr.png">  French
+</li>
+			</ul></div>
+</div>
+</div>
+	
+	<div class="header">
+	<script type="text/javascript">
+		//
+		var navfuncs = {
+		 	selectApp : function(sapp) {
+		 	    if (sapp == 'gems') {
+		   			document.location.href = "http://www.publicpurchase.com" + "/gems/browse/home";
+		   		}
+		 	  	if (sapp == 'con') {
+		  			document.location.href = "http://www.publicpurchase.com" + "/contract/home/home";
+		  		} 
+				if (sapp == 'req') {
+		  			document.location.href = "http://" + "/gems/pr/home/dash";
+		  		} 
+		  		if (sapp == 'vendor') {
+		  			document.location.href = "http://www.publicpurchase.com" + "/vendor/agency/home";
+		  		}
+		  		if (sapp == 'cat') {
+		  			document.location.href = "http://" + "/gems/cat/home/dash";
+		  		}
+		  		if (sapp == 'portal') {
+		  			document.location.href = "http://www.publicpurchase.com" + "/portal/view/home";
+		  		}
+		  		if (sapp == 'surplus') {
+		  			document.location.href = "http://www.publicsurplus.com" + "/sms/browse/home";
+		  		}
+		 	}
+		 }
+	 </script><div class="logo">
+		       <a href="javascript:navfuncs.selectApp('surplus');"><img src="/smsweb/20170825/images/logoPS.png" title="Public Surplus Logo" alt="Public Surplus" border="0"></a>
+	     </div>
+	 </div>
+
+
+<div id="navWarning" style="clear: both; font-size: 0; height: 0; display: hidden;"></div>
+
+<!-- 
+
+ -->
+<div class="navigSup">
+  <a class="noborder" href="javascript:Auction_PopupWindow('/sms/help/onlineHelp.html','onlineHelp','width=540,height=400,scrollbars=yes,resizable=yes');">Chat <img src="/smsweb/20170825/images/ps/comments.png" width="12" height="12" alt="Live Chat" title="Live Chat" style="padding-left:0px;margin:0px 0px -2px 0px;"></a>|<a href="javascript:Auction_PopupWindow('/sms/help/mainhelp.html?frame1=public/info.html&amp;frame2=public/info_email.html','help','width=540,height=400,scrollbars=yes,resizable=yes');">Help</a>|<a href="javascript:loggingIn();">Login</a>
+</div>
+<div class="navigSup2"><a href="/sms/browse/home?tm=m" target="_top">Home</a>|<a class="navSup2ON" href="/sms/browse/allcat?tm=m" target="_top">Browse</a>|<a href="/sms/browse/search?tm=m" target="_top">Search</a>|<a href="/sms/about/home.html">About</a></div>
+ <div class="leftCol col-md-3 col-xs-12">
+  
+   <div class="brandDiv">
+  <table border="0" cellspacing="0" cellpadding="0" class="brandBox" width="100%"><tr style="height:59px;"><td>
+      </td>
+	</tr></table></div>
+  
+  
+ <h1>Categories</h1>
+ <ul class="navcats"><li><a href="/sms/browse/cataucs?catid=22">Airport</a></li>
+  <li><a href="/sms/browse/cataucs?catid=24">Animals and Livestock</a></li>
+  <li><a href="/sms/browse/cataucs?catid=19" class="navadminOn">Aviation</a></li>
+   <ul class="navsubcats"><li><a href="/sms/browse/cataucs?catid=1903">Airplane - Jet</a></li>
+    <li><a href="/sms/browse/cataucs?catid=1902">Airplane - Prop</a></li>
+    <li><a href="/sms/browse/cataucs?catid=1901">General</a></li>
+    <li><a href="/sms/browse/cataucs?catid=1904">Helicopter</a></li>
+    <li><a href="/sms/browse/cataucs?catid=1905">Parts</a></li>
+   </ul><li><a href="/sms/browse/cataucs?catid=10">Building</a></li>
+  <li><a href="/sms/browse/cataucs?catid=16">Clothing</a></li>
+  <li><a href="/sms/browse/cataucs?catid=18">Collectibles</a></li>
+  <li><a href="/sms/browse/cataucs?catid=1">Computers</a></li>
+  <li><a href="/sms/browse/cataucs?catid=2">Electronics</a></li>
+  <li><a href="/sms/browse/cataucs?catid=8">Food Supply</a></li>
+  <li><a href="/sms/browse/cataucs?catid=28">For Children</a></li>
+  <li><a href="/sms/browse/cataucs?catid=14">Furniture</a></li>
+  <li><a href="/sms/browse/cataucs?catid=17">Heavy Equipment</a></li>
+  <li><a href="/sms/browse/cataucs?catid=29">Heavy Equipment Parts</a></li>
+  <li><a href="/sms/browse/cataucs?catid=27">Housewares</a></li>
+  <li><a href="/sms/browse/cataucs?catid=6">Industrial Equipment</a></li>
+  <li><a href="/sms/browse/cataucs?catid=11">Jewelry</a></li>
+  <li><a href="/sms/browse/cataucs?catid=20">Marine</a></li>
+  <li><a href="/sms/browse/cataucs?catid=23">Medical</a></li>
+  <li><a href="/sms/browse/cataucs?catid=4">Motor Pool</a></li>
+  <li><a href="/sms/browse/cataucs?catid=21">Motor Pool Parts</a></li>
+  <li><a href="/sms/browse/cataucs?catid=13">Music and Arts</a></li>
+  <li><a href="/sms/browse/cataucs?catid=3">Office Equipment</a></li>
+  <li><a href="/sms/browse/cataucs?catid=12">Outdoor Equipment</a></li>
+  <li><a href="/sms/browse/cataucs?catid=15">Real Estate</a></li>
+  <li><a href="/sms/browse/cataucs?catid=9">School Supplies</a></li>
+  <li><a href="/sms/browse/cataucs?catid=25">Scrap</a></li>
+  <li><a href="/sms/browse/cataucs?catid=5">Sporting Goods</a></li>
+  <li><a href="/sms/browse/cataucs?catid=26">Storage</a></li>
+ </ul><div> </div>
+
+ </div>
+ <div class="rightCol col-md-9 col-xs-12">
+  
+  <a name="startcontent" id="startcontent"></a>
+  <div class="subNavHead">
+ Auctions in Aviation
+</div>
+  
+   <form action="/sms/browse/cataucs" name="regform" method="GET">
+   <input type="hidden" name="slth" value=""><input type="hidden" name="catid" value="19"><input type="hidden" name="page" value="0"><input type="hidden" name="sortBy" value="timeLeft"></form>
+
+		 <div style="padding:10px 0px 0px 0px;width:250px;float:right;text-align:right;">
+		  <div class="ClickSel" onclick="NoTimeHideCl()" onmouseover="NoTimeHide()" onmouseout="TimeHide()">
+		   <a href="javascript:void(0)">
+		   <span class="floatArrowRight"><img src="/smsweb/20170825/images/ps/ArrowHome1.gif" id="ArrowRegion" name="ArrowRegion" border="0px" alt="Select Region"></span>
+		   Select Region
+		   </a>
+		  </div>
+		  <div class="dropMen dropMenL" style="display:none;" id="MenuReg" onmouseover="NoTimeHide()" onmouseout="TimeHide()" onblur="TimeHideNone()">
+		   <ul class="dropSel"><li><a href="/sms/browse/cataucs?catid=19">All</a>
+
+	</li><li class="shaded"><a href="/sms/all,al/browse/cataucs?catid=19">Alabama</a></li>
+	<li class=""><a href="/sms/all,ak/browse/cataucs?catid=19">Alaska</a></li>
+	<li class="shaded"><a href="/sms/all,as/browse/cataucs?catid=19">American Samoa</a></li>
+	<li class=""><a href="/sms/all,az/browse/cataucs?catid=19">Arizona</a></li>
+	<li class="shaded"><a href="/sms/all,ar/browse/cataucs?catid=19">Arkansas</a></li>
+	<li class=""><a href="/sms/all,ca/browse/cataucs?catid=19">California</a></li>
+	<li class="shaded"><a href="/sms/all,co/browse/cataucs?catid=19">Colorado</a></li>
+	<li class=""><a href="/sms/all,ct/browse/cataucs?catid=19">Connecticut</a></li>
+	<li class="shaded"><a href="/sms/all,de/browse/cataucs?catid=19">Delaware</a></li>
+	<li class=""><a href="/sms/all,fl/browse/cataucs?catid=19">Florida</a></li>
+	<li class="shaded"><a href="/sms/all,ga/browse/cataucs?catid=19">Georgia</a></li>
+	<li class=""><a href="/sms/all,gu/browse/cataucs?catid=19">Guam</a></li>
+	<li class="shaded"><a href="/sms/all,hi/browse/cataucs?catid=19">Hawaii</a></li>
+	<li class=""><a href="/sms/all,id/browse/cataucs?catid=19">Idaho</a></li>
+	<li class="shaded"><a href="/sms/all,il/browse/cataucs?catid=19">Illinois</a></li>
+	<li class=""><a href="/sms/all,in/browse/cataucs?catid=19">Indiana</a></li>
+	<li class="shaded"><a href="/sms/all,ia/browse/cataucs?catid=19">Iowa</a></li>
+	<li class=""><a href="/sms/all,ks/browse/cataucs?catid=19">Kansas</a></li>
+	<li class="shaded"><a href="/sms/all,ky/browse/cataucs?catid=19">Kentucky</a></li>
+	<li class=""><a href="/sms/all,la/browse/cataucs?catid=19">Louisiana</a></li>
+	<li class="shaded"><a href="/sms/all,me/browse/cataucs?catid=19">Maine</a></li>
+	<li class=""><a href="/sms/all,md/browse/cataucs?catid=19">Maryland</a></li>
+	<li class="shaded"><a href="/sms/all,ma/browse/cataucs?catid=19">Massachusetts</a></li>
+	<li class=""><a href="/sms/all,mi/browse/cataucs?catid=19">Michigan</a></li>
+	<li class="shaded"><a href="/sms/all,mn/browse/cataucs?catid=19">Minnesota</a></li>
+	<li class=""><a href="/sms/all,ms/browse/cataucs?catid=19">Mississippi</a></li>
+	<li class="shaded"><a href="/sms/all,mo/browse/cataucs?catid=19">Missouri</a></li>
+	<li class=""><a href="/sms/all,mt/browse/cataucs?catid=19">Montana</a></li>
+	<li class="shaded"><a href="/sms/all,ne/browse/cataucs?catid=19">Nebraska</a></li>
+	<li class=""><a href="/sms/all,nv/browse/cataucs?catid=19">Nevada</a></li>
+	<li class="shaded"><a href="/sms/all,nh/browse/cataucs?catid=19">New Hampshire</a></li>
+	<li class=""><a href="/sms/all,nj/browse/cataucs?catid=19">New Jersey</a></li>
+	<li class="shaded"><a href="/sms/all,nm/browse/cataucs?catid=19">New Mexico</a></li>
+	<li class=""><a href="/sms/all,ny/browse/cataucs?catid=19">New York</a></li>
+	<li class="shaded"><a href="/sms/all,nc/browse/cataucs?catid=19">North Carolina</a></li>
+	<li class=""><a href="/sms/all,nd/browse/cataucs?catid=19">North Dakota</a></li>
+	<li class="shaded"><a href="/sms/all,oh/browse/cataucs?catid=19">Ohio</a></li>
+	<li class=""><a href="/sms/all,ok/browse/cataucs?catid=19">Oklahoma</a></li>
+	<li class="shaded"><a href="/sms/all,or/browse/cataucs?catid=19">Oregon</a></li>
+	<li class=""><a href="/sms/all,pa/browse/cataucs?catid=19">Pennsylvania</a></li>
+	<li class="shaded"><a href="/sms/all,pr/browse/cataucs?catid=19">Puerto Rico</a></li>
+	<li class=""><a href="/sms/all,ri/browse/cataucs?catid=19">Rhode Island</a></li>
+	<li class="shaded"><a href="/sms/all,sc/browse/cataucs?catid=19">South Carolina</a></li>
+	<li class=""><a href="/sms/all,sd/browse/cataucs?catid=19">South Dakota</a></li>
+	<li class="shaded"><a href="/sms/all,tn/browse/cataucs?catid=19">Tennessee</a></li>
+	<li class=""><a href="/sms/all,tx/browse/cataucs?catid=19">Texas</a></li>
+	<li class="shaded"><a href="/sms/all,vi/browse/cataucs?catid=19">U.S. Virgin Islands</a></li>
+	<li class=""><a href="/sms/all,ut/browse/cataucs?catid=19">Utah</a></li>
+	<li class="shaded"><a href="/sms/all,vt/browse/cataucs?catid=19">Vermont</a></li>
+	<li class=""><a href="/sms/all,va/browse/cataucs?catid=19">Virginia</a></li>
+	<li class="shaded"><a href="/sms/all,wa/browse/cataucs?catid=19">Washington</a></li>
+	<li class=""><a href="/sms/all,dc/browse/cataucs?catid=19">Washington D.C.</a></li>
+	<li class="shaded"><a href="/sms/all,wv/browse/cataucs?catid=19">West Virginia</a></li>
+	<li class=""><a href="/sms/all,wi/browse/cataucs?catid=19">Wisconsin</a></li>
+	<li class="shaded"><a href="/sms/all,wy/browse/cataucs?catid=19">Wyoming</a></li>
+	<li class=""><a href="/sms/all,ab/browse/cataucs?catid=19">Alberta</a></li>
+	<li class="shaded"><a href="/sms/all,bc/browse/cataucs?catid=19">British Columbia</a></li>
+	<li class=""><a href="/sms/all,mb/browse/cataucs?catid=19">Manitoba</a></li>
+	<li class="shaded"><a href="/sms/all,nb/browse/cataucs?catid=19">New Brunswick</a></li>
+	<li class=""><a href="/sms/all,nl/browse/cataucs?catid=19">Newfoundland and Labrador</a></li>
+	<li class="shaded"><a href="/sms/all,nt/browse/cataucs?catid=19">Northwest Territories</a></li>
+	<li class=""><a href="/sms/all,ns/browse/cataucs?catid=19">Nova Scotia</a></li>
+	<li class="shaded"><a href="/sms/all,nu/browse/cataucs?catid=19">Nunavut</a></li>
+	<li class=""><a href="/sms/all,on/browse/cataucs?catid=19">Ontario</a></li>
+	<li class="shaded"><a href="/sms/all,pe/browse/cataucs?catid=19">Prince Edward Island</a></li>
+	<li class=""><a href="/sms/all,qc/browse/cataucs?catid=19">Quebec</a></li>
+	<li class="shaded"><a href="/sms/all,sk/browse/cataucs?catid=19">Saskatchewan</a></li>
+	<li class=""><a href="/sms/all,yt/browse/cataucs?catid=19">Yukon</a></li>
+
+		   </ul></div>
+		  <div style="clear:both;">
+		    <div class="ClickSel" onclick="NoTimeHideClA()" onmouseover="NoTimeHideA()" onmouseout="TimeHideA()">
+		     <a href="javascript:void(0);">
+		     <span class="floatArrowRight"><img src="/smsweb/20170825/images/ps/ArrowHome1.gif" id="ArrowAgency" name="ArrowAgency" border="0px" alt="Select Agency"></span>
+		     Select Agency
+		     </a>
+		    </div>
+		    <div class="dropMen dropMenL" style="display:none;" id="MenuAg" onmouseover="NoTimeHideA()" onmouseout="TimeHideA()" onblur="TimeHideANone()">
+   <ul class="dropSel"><li><strong>Please select region first</strong></li>
+  </ul></div>
+
+		   </div>
+		 </div>
+ 
+ <div class="infoholder" style="padding-top:0px;padding-right:0px;padding-bottom:5px;clear:both;">
+  <div style="text-align:right; margin-right:15px;">1 auction</div>
+  
+  <table width="100%" border="0" cellspacing="0" cellpadding="5" class="tabCurr" align="center"><thead><tr><th scope="col">
+       <a href="javascript:sort('id');"><img src="/smsweb/20170825/images/auction/arrow_rightG.gif" alt="" border="0" width="9" height="9">Auction</a>
+     </th>
+     <th scope="col">
+       <a href="javascript:sort('title');"><img src="/smsweb/20170825/images/auction/arrow_rightG.gif" alt="" border="0" width="9" height="9">Title</a>
+     </th>
+     <th scope="col"> </th>
+     <th scope="col" nowrap> </th>
+     <th nowrap scope="col">
+       <img src="/smsweb/20170825/images/auction/arrow_downY.gif" alt="" border="0" width="9" height="9">Time Left
+     </th>
+     <th scope="col">
+       <a href="javascript:sort('bids');"><img src="/smsweb/20170825/images/auction/arrow_rightG.gif" alt="" border="0" width="9" height="9">Bids</a>
+     </th>
+     <th align="right" nowrap scope="col">
+       <a href="javascript:sort('price');"><img src="/smsweb/20170825/images/auction/arrow_rightG.gif" alt="" border="0" width="9" height="9">Current Price</a>
+     </th>
+    </tr></thead><tr><td>1963657</td>
+     <td>
+      <a href="/sms/auction/view?auc=1963657">DESKTOP COMPUTERS</a>
+       
+      
+
+	
+
+
+
+
+
+     </td>
+     <td align="center">
+		 
+
+     </td>
+     <td style="color:green;font-weight:bold;" align="center">
+      CA
+     </td>
+     <td nowrap>1 day 21 hours</td>
+     <td align="center">0 </td>
+     <td align="right">$100.00 </td>
+    </tr></table></div>
+     <div style="text-align:right; margin:3px 15px;">[<a href="javascript:listimg('n');">Hide Images</a> | <span style="color:#cccccc;">Show Images</span>]</div>
+
+ 
+
+ </div>
+ 
+	 <div style="clear:left;">
+<div class="navigFoot"> </div>
+<div class="navigFoot2"> </div>
+<div class="TxFoot">Customer Support: <a href="mailto:support@publicsurplus.com">support@publicsurplus.com</a> | Copyright 1999-2017 The Public Group, LLC. | All rights reserved. </div>
+<div style="text-align: center;"><img src="/smsweb/20170825/images/logoGroup_footer.png" alt="{missing:thePublicGroup}"></div>
+</div> 
+</div></body></html>
+
+
+<hr><br>

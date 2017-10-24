@@ -1,0 +1,1353 @@
+Depth: 1<br>URL: http://starmanauctions.com/
+<br>CONTENT:<br>
+<!DOCTYPE HTML>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-GB" lang="en-GB"><head><base href="http://starmanauctions.com/"><meta http-equiv="content-type" content="text/html; charset=utf-8"><meta name="description" content="The number one aviation auction company in the world"><meta name="generator" content="Joomla! - Open Source Content Management"><title>Starman Auctions - Welcome to the site of the number one aviation auctioneer in the United States.</title><link href="/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0"><link href="/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0"><link href="/templates/business_pro/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"><link href="/components/com_jevents/views/geraint/assets/css/modstyle.css?3.4.43" rel="stylesheet" type="text/css"><link href="/media/com_jevents/css/bootstrap.css" rel="stylesheet" type="text/css"><link href="/media/com_jevents/css/bootstrap-responsive.css" rel="stylesheet" type="text/css"><style type="text/css">
+div.mod_search129 input[type="search"]{ width:auto; }
+	</style><script type="application/json" class="joomla-script-options new">{"system.paths":{"root":"","base":""},"system.keepalive":{"interval":840000,"uri":"\/index.php\/component\/ajax\/?format=json"}}</script><script src="/media/jui/js/jquery.min.js?86b500da3a69c3c7e7cf989478a1575f" type="text/javascript"></script><script src="/media/jui/js/jquery-noconflict.js?86b500da3a69c3c7e7cf989478a1575f" type="text/javascript"></script><script src="/media/jui/js/jquery-migrate.min.js?86b500da3a69c3c7e7cf989478a1575f" type="text/javascript"></script><script src="/media/system/js/caption.js?86b500da3a69c3c7e7cf989478a1575f" type="text/javascript"></script><script src="http://starmanauctions.com/templates/business_pro/js/jquery/jquery-noconflict.js" type="text/javascript"></script><script src="/media/system/js/core.js?86b500da3a69c3c7e7cf989478a1575f" type="text/javascript"></script><!--[if lt IE 9]><script src="/media/system/js/polyfill.event.js?86b500da3a69c3c7e7cf989478a1575f" type="text/javascript"></script><![endif]--><script src="/media/system/js/keepalive.js?86b500da3a69c3c7e7cf989478a1575f" type="text/javascript"></script><script src="/media/jui/js/bootstrap.min.js?86b500da3a69c3c7e7cf989478a1575f" type="text/javascript"></script><script src="/media/system/js/html5fallback.js?86b500da3a69c3c7e7cf989478a1575f" type="text/javascript"></script><script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});jQuery(function($){ $(".hasTooltip").tooltip({"html": true,"container": "body"}); });function fetchMoreLatestEvents(modid, direction)
+{        
+        jQuery.ajax({
+                    type : 'POST',
+                    dataType : 'json',
+                    url : "http://starmanauctions.com/index.php?option=com_jevents&ttoption=com_jevents&typeaheadtask=gwejson&file=fetchlatestevents&path=module&folder=mod_jevents_latest&token=4ec8d68be4a394067acf9a023709936d",
+                    data : {'json':JSON.stringify({'modid':modid, 'direction':direction})},
+                    contentType: "application/x-www-form-urlencoded; charset=utf-8",
+                    scriptCharset: "utf-8"
+            })                        
+                .done(function( data ){                    
+                    jQuery("#mod_events_latest_"+modid+"_data").replaceWith(data.html);
+                    try {
+                        document.getElementById("mod_events_latest_"+modid+"_data").parentNode.scrollIntoView({block: "start", behavior: "smooth"});
+                    }
+                    catch (e) {
+                    }
+                })
+                .fail(function(x) {
+        alert('fail '+x);
+                });
+}
+	</script><style type="text/css">.s5boxhidden{display:none;} </style><script language="javascript" type="text/javascript">var s5_boxeffect = "elastic";</script><script src="http://starmanauctions.com/modules/mod_s5_box/js/jquery.colorbox.js" type="text/javascript"></script><link rel="stylesheet" href="http://starmanauctions.com/modules/mod_s5_box/css/s5box.css" type="text/css"><script type="text/javascript">
+  jQuery.fn.colorbox.settings.initialWidth=200;
+  jQuery.fn.colorbox.settings.initialHeight=200;
+  jQuery.fn.colorbox.settings.transition="elastic";
+  jQuery(document).ready(function(){
+    jQuery(".s5box_register").colorbox({width:"40%", inline:true, href:"#s5box_register"});
+    jQuery(".s5box_login").colorbox({width:"25%", inline:true, href:"#s5box_login"});
+    jQuery(".s5box_one").colorbox({width:"35%", inline:true, href:"#s5box_one"});
+    jQuery(".s5box_two").colorbox({width:"35%", inline:true, href:"#s5box_two"});
+    jQuery(".s5box_three").colorbox({width:"35%", inline:true, href:"#s5box_three"});
+    jQuery(".s5box_four").colorbox({width:"35%", inline:true, href:"#s5box_four"});
+    jQuery(".s5box_five").colorbox({width:"35%", inline:true, href:"#s5box_five"});
+    jQuery(".s5box_six").colorbox({width:"35%", inline:true, href:"#s5box_six"});
+    jQuery(".s5box_seven").colorbox({width:"35%", inline:true, href:"#s5box_seven"});
+    jQuery(".s5box_eight").colorbox({width:"35%", inline:true, href:"#s5box_eight"});
+    jQuery(".s5box_nine").colorbox({width:"35%", inline:true, href:"#s5box_nine"});
+    jQuery(".s5box_ten").colorbox({width:"35%", inline:true, href:"#s5box_ten"});
+  });</script><meta name="viewport" content="initial-scale=1.0"><script type="text/javascript">//<![CDATA[
+if(jQuery.easing.easeOutExpo==undefined){
+document.write('<script src="http://starmanauctions.com/templates/business_pro/js/jquery/jquery-ui.min.js"><\/script>');
+}
+//]]></script><link href="http://starmanauctions.com/templates/business_pro/css/bootstrap/bootstrap-default.css" rel="stylesheet" type="text/css"><link href="http://starmanauctions.com/templates/business_pro/css/bootstrap/bootstrap-responsive.css" rel="stylesheet" type="text/css"><link rel="stylesheet" href="http://starmanauctions.com/templates/business_pro/css/font-awesome/css/font-awesome.min.css"><!-- Css and js addons for vertex features --><link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Cabin+Condensed"><style type="text/css"> 
+
+
+
+
+/* MAX IMAGE WIDTH */
+
+img {
+height:auto !important;
+max-width:100% !important;
+-webkit-box-sizing: border-box !important; /* Safari/Chrome, other WebKit */
+-moz-box-sizing: border-box !important;    /* Firefox, other Gecko */
+box-sizing: border-box !important;         /* Opera/IE 8+ */
+}
+
+#map_canvas img {
+max-width:none !important;
+}
+
+.full_width {
+width:100% !important;
+-webkit-box-sizing: border-box !important; /* Safari/Chrome, other WebKit */
+-moz-box-sizing: border-box !important;    /* Firefox, other Gecko */
+box-sizing: border-box !important;         /* Opera/IE 8+ */
+}
+
+
+
+
+.S5_submenu_itemTablet{
+background:none !important;
+}
+
+#s5_right_wrap, #s5_left_wrap, #s5_right_inset_wrap, #s5_left_inset_wrap, #s5_right_top_wrap, #s5_left_top_wrap, #s5_right_bottom_wrap, #s5_left_bottom_wrap {
+width:100% !important;
+}
+#s5_right_column_wrap {
+width:0% !important;
+margin-left:-14.5% !important;
+}
+#s5_left_column_wrap {
+width:14.5% !important;
+}
+#s5_center_column_wrap_inner {
+margin-right:0% !important;
+margin-left:29% !important;
+}
+
+#s5_responsive_mobile_drop_down_wrap input {
+width:96% !important;
+}
+#s5_responsive_mobile_drop_down_search input {
+width:100% !important;
+}
+
+
+
+@media screen and (max-width: 750px){
+	body {
+	height:100% !important;
+	position:relative !important;
+	padding-bottom:48px !important;
+	}
+}
+
+@media screen and (max-width: 970px){
+	#subMenusContainer .S5_subtext {
+	width:85%;
+	}
+}
+
+
+	#s5_responsive_mobile_bottom_bar, #s5_responsive_mobile_top_bar {
+	background:#0B0B0B;
+	background: -moz-linear-gradient(top, #272727 0%, #0B0B0B 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#272727), color-stop(100%,#0B0B0B)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #272727 0%,#0B0B0B 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #272727 0%,#0B0B0B 100%); /* Opera11.10+ */
+	background: -ms-linear-gradient(top, #272727 0%,#0B0B0B 100%); /* IE10+ */
+	background: linear-gradient(top, #272727 0%,#0B0B0B 100%); /* W3C */
+			font-family: Cabin Condensed !important;
+	}
+	
+	.s5_responsive_mobile_drop_down_inner, .s5_responsive_mobile_drop_down_inner input, .s5_responsive_mobile_drop_down_inner button, .s5_responsive_mobile_drop_down_inner .button, #s5_responsive_mobile_drop_down_search .validate {
+	font-family: Cabin Condensed !important;
+	}
+	
+	.s5_responsive_mobile_drop_down_inner button:hover, .s5_responsive_mobile_drop_down_inner .button:hover {
+	background:#0B0B0B !important;
+	}
+	
+	#s5_responsive_mobile_drop_down_menu, #s5_responsive_mobile_drop_down_menu a, #s5_responsive_mobile_drop_down_login a {
+	font-family: Cabin Condensed !important;
+	color:#FFFFFF !important;
+	}
+	
+	#s5_responsive_mobile_bar_active, #s5_responsive_mobile_drop_down_menu .current a, .s5_responsive_mobile_drop_down_inner .s5_mod_h3, .s5_responsive_mobile_drop_down_inner .s5_h3_first {
+	color:#FB5A02 !important;
+	}
+	
+	.s5_responsive_mobile_drop_down_inner button, .s5_responsive_mobile_drop_down_inner .button {
+	background:#FB5A02 !important;
+	}
+	
+	#s5_responsive_mobile_drop_down_menu .active ul li, #s5_responsive_mobile_drop_down_menu .current ul li a, #s5_responsive_switch_mobile a, #s5_responsive_switch_desktop a, #s5_responsive_mobile_drop_down_wrap {
+	color:#FFFFFF !important;
+	}
+	
+	#s5_responsive_mobile_toggle_click_menu span {
+	border-right:solid 1px #272727;
+	}
+
+	#s5_responsive_mobile_toggle_click_menu {
+	border-right:solid 1px #0B0B0B;
+	}
+
+	#s5_responsive_mobile_toggle_click_search span, #s5_responsive_mobile_toggle_click_register span, #s5_responsive_mobile_toggle_click_login span, #s5_responsive_mobile_scroll a {
+	border-left:solid 1px #272727;
+	}
+
+	#s5_responsive_mobile_toggle_click_search, #s5_responsive_mobile_toggle_click_register, #s5_responsive_mobile_toggle_click_login, #s5_responsive_mobile_scroll {
+	border-left:solid 1px #0B0B0B;
+	}
+
+	.s5_responsive_mobile_open, .s5_responsive_mobile_closed:hover, #s5_responsive_mobile_scroll:hover {
+	background:#272727;
+	}
+
+	#s5_responsive_mobile_drop_down_menu .s5_responsive_mobile_drop_down_inner, #s5_responsive_mobile_drop_down_register .s5_responsive_mobile_drop_down_inner, #s5_responsive_mobile_drop_down_login .s5_responsive_mobile_drop_down_inner, #s5_responsive_mobile_drop_down_search .s5_responsive_mobile_drop_down_inner {
+	background:#272727;
+	}
+
+
+
+
+
+	.s5_wrap {
+	max-width:1200px !important;
+	}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</style><script type="text/javascript">//<![CDATA[<!-- Floating Menu JS -->		//]]></script><script type="text/javascript" src="http://starmanauctions.com/templates/business_pro/js/s5_flex_menu.js"></script><link rel="stylesheet" href="http://starmanauctions.com/templates/business_pro/css/s5_flex_menu.css" type="text/css"><link rel="stylesheet" href="http://starmanauctions.com/templates/system/css/system.css" type="text/css"><link rel="stylesheet" href="http://starmanauctions.com/templates/system/css/general.css" type="text/css"><link href="http://starmanauctions.com/templates/business_pro/css/template_default.css" rel="stylesheet" type="text/css"><link href="http://starmanauctions.com/templates/business_pro/css/template.css" rel="stylesheet" type="text/css"><link href="http://starmanauctions.com/templates/business_pro/css/com_content.css" rel="stylesheet" type="text/css"><link href="http://starmanauctions.com/templates/business_pro/css/editor.css" rel="stylesheet" type="text/css"><link href="http://starmanauctions.com/templates/business_pro/css/thirdparty.css" rel="stylesheet" type="text/css"><link href="http://starmanauctions.com/templates/business_pro/css/multibox/multibox.css" rel="stylesheet" type="text/css"><link href="http://starmanauctions.com/templates/business_pro/css/multibox/ajax.css" rel="stylesheet" type="text/css"><script type="text/javascript" src="http://starmanauctions.com/templates/business_pro/js/multibox/overlay.js"></script><script type="text/javascript" src="http://starmanauctions.com/templates/business_pro/js/multibox/multibox.js"></script><link href="http://starmanauctions.com/templates/business_pro/favicon.ico" rel="shortcut icon" type="image/x-icon"><script type="text/javascript" src="http://starmanauctions.com/templates/business_pro/js/s5_font_adjuster.js"></script><link rel="stylesheet" type="text/css" href="http://starmanauctions.com/templates/business_pro/css/s5_responsive_bars.css"><link href="http://starmanauctions.com/templates/business_pro/css/s5_responsive_hide_classes.css" rel="stylesheet" type="text/css"><link rel="stylesheet" type="text/css" href="http://starmanauctions.com/templates/business_pro/css/s5_responsive.css"><link rel="stylesheet" type="text/css" href="http://starmanauctions.com/templates/business_pro/css/custom.css"><script type="text/javascript">
+	//<![CDATA[
+				        jQuery(document).ready( function() {
+		            var myMenu = new MenuMatic({
+				tabletWidth:1400,
+                effect:"slide & fade",
+                duration:1000,
+                physics: 'easeOutExpo',
+                hideDelay:500,
+                orientation:"horizontal",
+                tweakInitial:{x:0, y:0},
+                                     	            direction:{    x: 'right',    y: 'down' },
+				                opacity:100            });
+        });		
+			//]]>	
+    </script><!-- Info Slide Script - Called in header so css validates --><link href="http://starmanauctions.com/templates/business_pro/css/s5_info_slide.css" rel="stylesheet" type="text/css"><script type="text/javascript" src="http://starmanauctions.com/templates/business_pro/js/s5_info_slide.js"></script><!-- File compression. Needs to be called last on this file --><!-- The excluded files, listed below the compressed php files, are excluded because their calls vary per device or per browser. Included compression files are only ones that have no conditions and are included on all devices and browsers. Otherwise unwanted css will compile in the compressed files. --><link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Cabin%20Condensed:400,600"><style type="text/css"> 
+body, .inputbox {font-family: 'Arial',Helvetica,Arial,Sans-Serif ;} 
+
+.s5_mod_h3, #s5_nav li a, .s5_sub_a_span, h1, h2, h3, h4, h5, .inputbox, .registration input, .login input, .contact-form input, #jform_contact_message, #mod-search-searchword, input, textarea, #s5_footer_area1, .button, .btn-primary, .s5_ts_not_active, .s5_ts_active, .contact_section span, .tab_title, .large_highlight_font, .highlight_button, .highlight_font, p.readmore a, .s5_is_display h3, .fd_title, .fd_box_title, .module_round_box-breadcrumbs, #s5_drop_down_text_inner, .btn {
+font-family: Cabin Condensed;
+font-weight: 600 !important;
+}
+
+label {
+font-family: Cabin Condensed;
+font-weight: 400 !important;
+}
+
+#s5_menu_wrap, .s5_ts_active, .highlight_button, .pagenav a, .dropdown-menu li > a:hover, .dropdown-menu li > a:focus, .dropdown-submenu:hover > a, .dropdown-menu .active > a, .dropdown-menu .active > a:hover, .nav-list > .active > a, .nav-list > .active > a:hover, .nav-pills > .active > a, .nav-pills > .active > a:hover, .btn-group.open .btn-primary.dropdown-toggle, .item-page .dropdown-menu li > a:hover, .blog .dropdown-menu li > a:hover, .item .dropdown-menu li > a:hover {
+background:#278aa3 !important;
+}
+
+.btn-primary:hover, .button:hover, .highlight_button:hover, p.readmore a:hover, .readon:hover, .pagenav a:hover {
+background:#541515 !important;
+}
+
+.readmore_button {
+background:#278aa3 url(http://starmanauctions.com/templates/business_pro/images/s5_readmore_button.png) no-repeat center center !important;
+}
+
+.readmore_button:hover {
+background:#541515 url(http://starmanauctions.com/templates/business_pro/images/s5_readmore_button.png) no-repeat center center !important;
+}
+
+.readmore_button_large {
+background:#278aa3 url(http://starmanauctions.com/templates/business_pro/images/s5_readmore_button_large.png) no-repeat center center !important;
+}
+
+.readmore_button_large:hover {
+background:#541515 url(http://starmanauctions.com/templates/business_pro/images/s5_readmore_button_large.png) no-repeat center center !important;
+}
+
+#cboxLoadedContent {
+border-top:solid 3px #278aa3;
+border-bottom:solid 3px #278aa3;
+}
+
+#s5_button_wrap0 {
+border-bottom:solid 3px #278aa3 !important;
+}
+
+#s5_component_wrap {
+background:#3B3B3B;
+}
+
+a {
+color:#278aa3;
+}
+
+ul.menu li.current a, #s5_accordion_menu #current a, #s5_accordion_menu a:hover, .highlight1_text, .s5_is_display  a  {
+color:#278aa3 !important;
+}
+
+.highlight2_text {
+color:#541515;
+}
+
+.fd_box .highlight1_text {
+color:#541515 !important;
+}
+
+.s5_fd_active .highlight1_text {
+color:#278aa3 !important;
+}
+
+#s5_accordion_menu #current ul.s5_am_innermenu a {
+color:#3C3C3C !important;
+}
+
+.module_round_box-grey2 #s5_accordion_menu #current ul.s5_am_innermenu a {
+color:#FFFFFF !important;
+}
+
+
+#cboxLoadedContent .s5_mod_h3, .btn-link {
+color:#278aa3 !important;
+}
+
+.module_round_box-highlight1 {
+background:#278aa3;
+border:solid 1px #278aa3;
+}
+
+.module_round_box-highlight1 .s5_mod_h3 {
+background: #13768f; /* Old browsers */
+background: -moz-linear-gradient(top, #278aa3 0%, #13768f 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#278aa3), color-stop(100%,#13768f)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #278aa3 0%,#13768f 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #278aa3 0%,#13768f 100%); /* Opera11.10+ */
+background: -ms-linear-gradient(top, #278aa3 0%,#13768f 100%); /* IE10+ */
+background: linear-gradient(top, #278aa3 0%,#13768f 100%); /* W3C */
+-pie-background: linear-gradient(top, #278aa3 0%,#13768f 100%); /* IE */
+border-bottom:none;
+}
+
+.module_round_box-highlight2 {
+background:#400101;
+border:solid 1px #400101;
+}
+
+.module_round_box-highlight2 .s5_mod_h3 {
+background: #2c0000; /* Old browsers */
+background: -moz-linear-gradient(top, #400101 0%, #2c0000 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#400101), color-stop(100%,#2c0000)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #400101 0%,#2c0000 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #400101 0%,#2c0000 100%); /* Opera11.10+ */
+background: -ms-linear-gradient(top, #400101 0%,#2c0000 100%); /* IE10+ */
+background: linear-gradient(top, #400101 0%,#2c0000 100%); /* W3C */
+-pie-background: linear-gradient(top, #400101 0%,#2c0000 100%); /* IE */
+border-bottom:solid 1px #501111;
+}
+
+#s5_footer_area1 {
+padding-right:64px;
+}
+
+#s5_nav li a, .s5_sub_a_span, #s5_search_wrap input, .s5_mod_h3, .button, .btn-primary, .s5_ts_not_active, .s5_ts_active, .s5_is_display h3, #s5_drop_down_text_inner, .btn {
+text-transform:uppercase;
+}
+
+.S5_parent_subtext {
+display:none;
+}
+
+
+#s5_top_row1_area1 .module_round_box_outer, #s5_bottom_row3_area1 .module_round_box_outer {
+margin-right:16px;
+margin-bottom:16px;
+}
+
+#s5_top_row1_area_inner, #s5_bottom_row3_area_inner {
+padding-right:14px;
+padding-bottom:14px;
+}
+
+#s5_center_area .module_round_box_outer, #s5_component_wrap {
+margin-right:1px;
+margin-bottom:1px;
+}
+
+#s5_center_area {
+padding-right:29px;
+padding-bottom:29px;
+}
+
+
+/* k2 stuff */
+div.itemHeader h2.itemTitle, div.catItemHeader h3.catItemTitle, h3.userItemTitle a, #comments-form p, #comments-report-form p, #comments-form span, #comments-form .counter, #comments .comment-author, #comments .author-homepage,
+#comments-form p, #comments-form #comments-form-buttons, #comments-form #comments-form-error, #comments-form #comments-form-captcha-holder {font-family: 'Arial',Helvetica,Arial,Sans-Serif ;} 
+  
+.s5_wrap{width:92%;}  
+</style></head><body id="s5_body">
+
+<div id="s5_scrolltotop"></div>
+
+<!-- Top Vertex Calls -->
+<!-- Call top bar for mobile devices if layout is responsive -->	
+	
+<!-- s5_responsive_mobile_top_bar_spacer must be called to keep a space at the top of the page since s5_responsive_mobile_top_bar_wrap is position absolute. -->	
+<div id="s5_responsive_mobile_top_bar_spacer"></div>
+
+<!-- s5_responsive_mobile_top_bar_wrap must be called off the page and not with display:none or it will cause issues with the togglers. -->
+<div id="s5_responsive_mobile_top_bar_wrap" style="margin-top:-50000px;position:absolute;z-index:20;top:0px">
+
+	<div id="s5_responsive_mobile_top_bar" class="s5_responsive_mobile_bar_light">
+
+			<div id="s5_responsive_mobile_toggle_click_menu" style="display:block;float:left">
+				<span></span>
+			</div>
+			
+							<div id="s5_responsive_mobile_bar_active">
+					<span>
+						Home					</span>
+				</div>
+						
+			<div id="s5_responsive_mobile_toggle_click_login" style="display:block;float:right">
+				<span></span>
+			</div>
+			
+			<div id="s5_responsive_mobile_toggle_click_register" style="display:none;float:right">
+				<span></span>
+			</div>
+			
+			<div id="s5_responsive_mobile_toggle_click_search" style="display:block;float:right">
+				<span></span>
+			</div>
+
+		<div style="clear:both;height:0px"></div>
+		
+	</div>
+
+	<div id="s5_responsive_mobile_drop_down_wrap" class="s5_responsive_mobile_drop_down_wrap_loading">
+		<div id="s5_responsive_mobile_drop_down_menu">
+			<div class="s5_responsive_mobile_drop_down_inner" style="-webkit-box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.6);-moz-box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.6);box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.6);">
+									
+<ul class="menu"><li class="item-101 current active"><a href="/index.php">Home</a></li><li class="item-194 deeper parent"><a href="/index.php/aboutus">About Us</a><ul><li class="item-195"><a href="/index.php/aboutus/integrity">Integrity</a></li><li class="item-217"><a href="/index.php/aboutus/professional">Professional</a></li><li class="item-218"><a href="/index.php/aboutus/experience">Experience</a></li><li class="item-216"><a href="/index.php/aboutus/joinmailinglist">Join our Mailing List!</a></li><li class="item-224"><a href="/index.php/aboutus/whyastarmanauction">Why a Starman Auction</a></li></ul></li><li class="item-191 deeper parent"><a href="/index.php/onsiteauctions">OnSite Auctions</a><ul><li class="item-222 deeper"><a href="/index.php/onsiteauctions/howonsiteworks">How an Onsite Auction Works</a><ul><li class="item-323"><a href="/index.php/onsiteauctions/air-evac-completion-center/air-evac-photos">AIR EVAC - PHOTOS</a></li><li class="item-297"><a href="/index.php/onsiteauctions/airlease-international-inc/photos-airlease-int-l-inc">PHOTOS-AIRLEASE INT'L, INC.</a></li><li class="item-290"><a href="/index.php/onsiteauctions/timberline-air-service-inc/timberline-air-service-photos">TIMBERLINE AIR SERVICE-PHOTOS</a></li><li class="item-291"><a href="/index.php/onsiteauctions/timberline-air-service-inc/timberline-air-service-inc-real-estate-photos">TIMBERLINE AIR SERVICE, INC. - REAL ESTATE PHOTOS</a></li><li class="item-275"><a href="/index.php/onsiteauctions/n-104sl-n-149sl-piaggio-p-180-aircraft-3/n134sl-photos">N134SL PHOTOS</a></li><li class="item-276"><a href="/index.php/onsiteauctions/n-104sl-n-149sl-piaggio-p-180-aircraft-3/n176sl-photos">N176SL PHOTOS</a></li><li class="item-274"><a href="/index.php/onsiteauctions/n-104sl-n-149sl-piaggio-p-180-aircraft/n104sl-photos">N104SL PHOTOS</a></li><li class="item-277"><a href="/index.php/onsiteauctions/n-104sl-n-149sl-piaggio-p-180-aircraft/n149sl-photos">N149SL PHOTOS</a></li><li class="item-279"><a href="/index.php/onsiteauctions/september-5th-metal-air-service/metal-air-service-photos">METAL AIR SERVICE PHOTOS</a></li><li class="item-284"><a href="/index.php/onsiteauctions/n-104sl-n-149sl-piaggio-p-180-aircraft-2/n-109sl-photos">N-109SL PHOTOS</a></li><li class="item-287"><a href="/index.php/onsiteauctions/september-19th-20th-2014-upcoming-corporate-aircraft-consignment-auction/corporate-aircraft-consignment-photos">CORPORATE AIRCRAFT CONSIGNMENT - PHOTOS</a></li><li class="item-286"><a href="/index.php/onsiteauctions/higher-source-photos/higher-source-photos">HIGHER SOURCE PHOTOS</a></li><li class="item-280"><a href="/index.php/onsiteauctions/complete-liquidation-of-aero-engines-inc/aero-engines-photos">AERO-ENGINES PHOTOS</a></li><li class="item-281"><a href="/index.php/onsiteauctions/complete-liquidation-of-aero-engines-inc/photos-aero-engines">PHOTOS AERO-ENGINES</a></li><li class="item-294"><a href="/index.php/onsiteauctions/2014-fall-consignment-auction/2014-fall-consignment-auction-photos">2014 Fall Consignment Auction-Photos</a></li><li class="item-304"><a href="/index.php/onsiteauctions/2015-helicopter-consignment-auction/helicopter-consignment-auction-photos">Helicopter Consignment Auction Photos</a></li><li class="item-306"><a href="/index.php/onsiteauctions/2015-winter-consignment-auction/2015-winter-consignment-photos">2015 Winter Consignment - Photos</a></li><li class="item-302"><a href="/index.php/onsiteauctions/stewart-industries-llc/stewart-industries-photos">Stewart Industries - Photos</a></li><li class="item-308"><a href="/index.php/onsiteauctions/skyventure-aviation/skyventure-photos">SKYVENTURE-PHOTOS</a></li><li class="item-312"><a href="/index.php/onsiteauctions/2005-piaggio-avanti-p-180-n-136sl/n136sl-photos">N136SL-PHOTOS</a></li><li class="item-313"><a href="/index.php/onsiteauctions/2007-piaggio-avanti-ii-p-180-n-173sl/n173sl-photos">N173SL-PHOTOS</a></li><li class="item-324"><a href="/index.php/onsiteauctions/knh-aviation-services-inc-dba-avcraft-technical-services/knh-avcraft-photos">KNH/AVCRAFT-PHOTOS</a></li><li class="item-321"><a href="/index.php/onsiteauctions/j-c-enterprises/j-c-enterprises-photos">J&amp;C Enterprises - Photos</a></li><li class="item-329"><a href="/index.php/onsiteauctions/giroux-aviation-inc/giroux-aviation-photos">GIROUX AVIATION-PHOTOS</a></li><li class="item-327"><a href="/index.php/onsiteauctions/dave-sampson-aircraft-parts/dave-sampson-aircraft-photos">Dave Sampson Aircraft - Photos</a></li><li class="item-330"><a href="/index.php/onsiteauctions/heritage-aircraft-inc/heritage-aircraft-inc-photos">Heritage Aircraft, Inc. - Photos</a></li><li class="item-333"><a href="/index.php/onsiteauctions/reliant-air-power-inc/reliant-air-power-photos">Reliant Air Power-Photos</a></li><li class="item-339"><a href="/index.php/onsiteauctions/dyncorp-int-l-inventory-equipment-tooling-surplus/dyncorp-int-l-photo">DYNCORP INT'L - PHOTO</a></li><li class="item-341"><a href="/index.php/onsiteauctions/heartland-aviation/heartland-aircraft-photo">Heartland Aircraft-Photo</a></li><li class="item-352"><a href="/index.php/onsiteauctions/2016-helicopter-consignment/2016-helicopter-consignment-photos">2016 Helicopter Consignment - Photos</a></li><li class="item-368"><a href="/index.php/onsiteauctions/evolution-aero-services-inc/evolution-aero-services-inc-photos">Evolution Aero Services, Inc. - Photos</a></li><li class="item-372"><a href="/index.php/onsiteauctions/2016-winter-consignment/2016-winter-consignment-photos">2016 Winter Consignment-Photos</a></li><li class="item-374"><a href="/index.php/onsiteauctions/hortman-aviation-services/hortman-photos">Hortman Aviation Services - Photos</a></li><li class="item-378"><a href="/index.php/onsiteauctions/avantgarde-aviation-inc/avantgarde-aviation-inc-photos">Avantgarde Aviation, Inc. - Photos</a></li><li class="item-376"><a href="/index.php/onsiteauctions/ottumwa-flying-service-aircraft-engine-resources/ottumwa-flying-service-photo">Ottumwa Flying Service - Photo</a></li><li class="item-383"><a href="/index.php/onsiteauctions/surplus-aircraft-inventory-to-key-lime-air/key-lime-air-photos-available">Key Lime Air - Photos</a></li><li class="item-387"><a href="/index.php/onsiteauctions/2016-spring-consignment-auction/2016-spring-consignment-auction-photo">2016 Spring Consignment Auction - Photo</a></li><li class="item-401"><a href="/index.php/onsiteauctions/skyborne-aviation-inc/skyborne-aviation-inc-photos">Skyborne Aviation, Inc. - Photos</a></li><li class="item-426"><a href="/index.php/onsiteauctions/annual-corporate-consignment/2016-corporate-consignment-photo" target="_blank">2016 Corporate Consignment - Photo</a></li><li class="item-428"><a href="/index.php/onsiteauctions/pro-aire-inc-aircraft-inventory-auction/pro-aire-inc-photo">Pro-Aire, Inc. - Photo</a></li><li class="item-430"><a href="/index.php/onsiteauctions/estate-of-dan-kirkpatrick/dan-kirkpatrick-estate-photo">Dan Kirkpatrick Estate - Photo</a></li><li class="item-434"><a href="/index.php/onsiteauctions/2017-helicopter-consignment/2017-helicopter-csgn-photo">2017 Helicopter Csgn - Photo</a></li><li class="item-439"><a href="/index.php/onsiteauctions/2017-winter-consignment/2017-winter-photo">2017 Winter - Photo</a></li><li class="item-441"><a href="/index.php/onsiteauctions/j-c-enterprises-aviation/j-c-enterprises-aviation-photo">J &amp; C Enterprises Aviation - Photo</a></li><li class="item-450"><a href="/index.php/onsiteauctions/homer-b-wilson-jr-estate/homer-b-wilson-jr-estate-photo">Homer B. Wilson, Jr. Estate-Photo</a></li></ul></li><li class="item-477 deeper parent"><a href="/index.php/onsiteauctions/2017-fall-consignment-auction/icalevent.detail/2017/10/20/89/-">2017 Fall Consignment Auction</a><ul><li class="item-479"><a href="/index.php/onsiteauctions/2017-fall-consignment-auction/2017-fall-consignment-auction-photo">2017 Fall Consignment Auction-Photo</a></li></ul></li></ul></li><li class="item-196 deeper parent"><a href="http://auctions.avsale.com">Online Auctions</a><ul><li class="item-478"><a href="/index.php/2014-01-21-15-22-47/cfm56-3-cfm56-7-engine-inventory-online/icalevent.detail/2017/10/20/90/-">CFM56-3 &amp; CFM56-7 ENGINE INVENTORY - ONLINE </a></li></ul></li><li class="item-206 deeper"><a href="/index.php/references">References</a><ul><li class="item-107"><a href="/index.php/extensions/s5-frontpage-display">S5 Frontpage Display</a></li></ul></li><li class="item-241 deeper parent"><a href="/index.php/auction-archive">Auction Archive</a><ul><li class="item-442 deeper parent"><a href="/index.php/auction-archive/miami-field-service/icalevent.detail/2017/10/20/73/-">MIAMI FIELD SERVICE</a><ul><li class="item-444"><a href="/index.php/auction-archive/miami-field-service/miami-field-service-photos">Miami Field Service-Photos</a></li></ul></li></ul></li><li class="item-242"><a href="/index.php/contact">Contact</a></li></ul></div>
+		</div>
+		
+		<div id="s5_responsive_mobile_drop_down_search">
+			<div class="s5_responsive_mobile_drop_down_inner" style="-webkit-box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.6);-moz-box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.6);box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.6);">
+								  					<form method="post" action="http://starmanauctions.com/">
+						<input type="text" onfocus="if (this.value=='Search...') this.value='';" onblur="if (this.value=='') this.value='Search...';" value="Search..." id="s5_responsive_mobile_search" name="searchword"><input type="hidden" value="search" name="task"><input type="hidden" value="com_search" name="option"><input type="hidden" value="1" name="Itemid"></form>
+							</div>
+		</div>
+		
+		<div id="s5_responsive_mobile_drop_down_login">
+			<div class="s5_responsive_mobile_drop_down_inner" id="s5_responsive_mobile_drop_down_login_inner" style="-webkit-box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.6);-moz-box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.6);box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.6);">
+			</div>
+		</div>
+		
+			
+		<div id="s5_responsive_mobile_drop_down_register">
+			<div class="s5_responsive_mobile_drop_down_inner" id="s5_responsive_mobile_drop_down_register_inner" style="-webkit-box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.6);-moz-box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.6);box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.6);">
+			</div>
+		</div>
+		
+					
+	</div>
+
+</div>
+
+<script language="JavaScript" type="text/javascript">
+	var s5_responsive_login_url = "";
+	var s5_responsive_register_url = "";
+</script><script type="text/javascript" language="javascript" src="http://starmanauctions.com/templates/business_pro/js/s5_responsive_mobile_bar.js?t=1"></script><!-- Fixed Tabs --><!-- Drop Down --><!-- Parallax Backgrounds --><!-- Floating Menu Spacer --><!-- Body Padding Div Used For Responsive Spacing --><div id="s5_body_padding"><div id="s5_body_wrap" class="s5_wrap">
+<div id="s5_body_wrap_inner">
+
+  
+
+  <!-- Header -->      
+    <div id="s5_header_area1">    
+    <div id="s5_header_area2">  
+    <div id="s5_header_area_inner">    
+      <div id="s5_header_wrap">
+      
+                <img alt="logo" src="http://starmanauctions.com/templates/business_pro/images/s5_logo.png" id="s5_logo" onclick="window.document.location.href='http://yourmail.av-info.com/Exchange'"><div id="s5_logo_responsive_clear"></div>
+        
+                
+        <div style="clear:both; height:0px"></div>
+        
+        
+        
+                  <div id="s5_menu_wrap">
+            <ul id="s5_nav" class="menu"><li class="active"><span class="s5_level1_span1"><span class="s5_level1_span2"><a href="/index.php"><span onclick='window.document.location.href="/index.php"'>Home</span></a><span class="S5_parent_subtext" onclick='window.document.location.href="/index.php"'>Return Home</span></span></span></li><li><span class="s5_level1_span1"><span class="s5_level1_span2"><a href="/index.php/aboutus"><span onclick='window.document.location.href="/index.php/aboutus"'>About Us</span></a></span></span><ul style="float:left;"><li><span class="S5_submenu_item"><a href="/index.php/aboutus/integrity"><span class="s5_sub_a_span" onclick='window.document.location.href="/index.php/aboutus/integrity"'>Integrity</span></a></span></li><li><span class="S5_submenu_item"><a href="/index.php/aboutus/professional"><span class="s5_sub_a_span" onclick='window.document.location.href="/index.php/aboutus/professional"'>Professional</span></a></span></li><li><span class="S5_submenu_item"><a href="/index.php/aboutus/experience"><span class="s5_sub_a_span" onclick='window.document.location.href="/index.php/aboutus/experience"'>Experience</span></a></span></li><li><span class="S5_submenu_item"><a href="/index.php/aboutus/joinmailinglist"><span class="s5_sub_a_span" onclick='window.document.location.href="/index.php/aboutus/joinmailinglist"'>Join our Mailing List!</span></a></span><ul style="float:left;"><li><div style="width:100%;"><div style="float:left; width:100%;"></div></div><div style="clear:both;"></div></li></ul></li><li><span class="S5_submenu_item"><a href="/index.php/aboutus/whyastarmanauction"><span class="s5_sub_a_span" onclick='window.document.location.href="/index.php/aboutus/whyastarmanauction"'>Why a Starman Auction</span></a></span></li></ul></li><li><span class="s5_level1_span1"><span class="s5_level1_span2"><a href="/index.php/onsiteauctions"><span onclick='window.document.location.href="/index.php/onsiteauctions"'>OnSite Auctions</span></a></span></span><ul style="float:left;"><li><span class="S5_submenu_item"><a href="/index.php/onsiteauctions/howonsiteworks"><span class="s5_sub_a_span" onclick='window.document.location.href="/index.php/onsiteauctions/howonsiteworks"'>How an Onsite Auction Works</span></a><span class="S5_subtext" onclick='window.document.location.href="/index.php/onsiteauctions/howonsiteworks"'>Please read before attending!</span></span></li><li><span class="S5_submenu_item"><a href="/index.php/onsiteauctions/2017-fall-consignment-auction/icalevent.detail/2017/10/20/89/-"><span class="s5_sub_a_span" onclick='window.document.location.href="/index.php/onsiteauctions/2017-fall-consignment-auction/icalevent.detail/2017/10/20/89/-"'>2017 Fall Consignment Auction</span></a></span><ul style="float:left;"><li><span class="S5_submenu_item"><a href="/index.php/onsiteauctions/2017-fall-consignment-auction/2017-fall-consignment-auction-photo"><span class="s5_sub_a_span" onclick='window.document.location.href="/index.php/onsiteauctions/2017-fall-consignment-auction/2017-fall-consignment-auction-photo"'>2017 Fall Consignment Auction-Photo</span></a></span></li></ul></li></ul></li><li><span class="s5_level1_span1"><span class="s5_level1_span2"><a href="http://auctions.avsale.com"><span onclick='window.document.location.href="http://auctions.avsale.com"'>Online Auctions</span></a></span></span><ul style="float:left;"><li><span class="S5_submenu_item"><a href="/index.php/2014-01-21-15-22-47/cfm56-3-cfm56-7-engine-inventory-online/icalevent.detail/2017/10/20/90/-"><span class="s5_sub_a_span" onclick='window.document.location.href="/index.php/2014-01-21-15-22-47/cfm56-3-cfm56-7-engine-inventory-online/icalevent.detail/2017/10/20/90/-"'>CFM56-3 &amp; CFM56-7 ENGINE INVENTORY - ONLINE </span></a></span></li></ul></li><li><span class="s5_level1_span1"><span class="s5_level1_span2"><a href="/index.php/references"><span onclick='window.document.location.href="/index.php/references"'>References</span></a></span></span></li><li><span class="s5_level1_span1"><span class="s5_level1_span2"><a href="/index.php/auction-archive"><span onclick='window.document.location.href="/index.php/auction-archive"'>Auction Archive</span></a><span class="S5_parent_subtext" onclick='window.document.location.href="/index.php/auction-archive"'>The last 10 Years of Auctions!</span></span></span><ul style="float:left;"><li><span class="S5_submenu_item"><a href="/index.php/auction-archive/miami-field-service/icalevent.detail/2017/10/20/73/-"><span class="s5_sub_a_span" onclick='window.document.location.href="/index.php/auction-archive/miami-field-service/icalevent.detail/2017/10/20/73/-"'>MIAMI FIELD SERVICE</span></a></span><ul style="float:left;"><li><span class="S5_submenu_item"><a href="/index.php/auction-archive/miami-field-service/miami-field-service-photos"><span class="s5_sub_a_span" onclick='window.document.location.href="/index.php/auction-archive/miami-field-service/miami-field-service-photos"'>Miami Field Service-Photos</span></a></span></li></ul></li></ul></li><li><span class="s5_level1_span1"><span class="s5_level1_span2"><a href="/index.php/contact"><span onclick='window.document.location.href="/index.php/contact"'>Contact</span></a></span></span></li></ul><div id="s5_search_wrap">
+                		<div class="moduletable">
+			<div class="search mod_search129">
+	<form action="/index.php" method="post" class="form-inline">
+		<label for="mod-search-searchword129" class="element-invisible">Search ...</label> <input name="searchword" id="mod-search-searchword129" maxlength="200" class="inputbox search-query input-medium" type="search" size="50" placeholder="Search ..."><button class="button btn btn-primary" onclick="this.form.searchword.focus();">Find</button>		<input type="hidden" name="task" value="search"><input type="hidden" name="option" value="com_search"><input type="hidden" name="Itemid" value="212"></form>
+</div>
+		</div>
+	
+              </div>
+                        <div style="clear:both; height:0px"></div>
+          </div>
+          <div style="clear:both; height:0px"></div>
+                
+                  <div id="s5_social_bar_wrap">
+            <div id="s5_social_bar">
+                              <div id="s5_facebook" onclick="window.open('https://www.facebook.com/starmanauctions/')"></div>
+                
+                              <div id="s5_twitter" onclick="window.open('javascript:;')"></div>
+                                            <div id="s5_google" onclick="window.open('http://mail.starmanauctions.com')"></div>
+                
+                              <div id="s5_rss" onclick="window.open('javascript:;')"></div>
+                            <div style="clear:both"></div>
+            </div>
+            <div style="clear:both"></div>
+          </div>
+                
+                  <div id="s5_below_menu">
+                          <div id="s5_pos_custom_1">
+                		<div class="moduletable">
+			
+
+<div class="custom">
+	<p><img style="margin-right: 3px;" src="/images/phone.png" alt=""><span style="font-size: 12pt;">Call Us: 1-402-592-1933           <a href="/images/starman/ProxyBidForm.pdf">Proxy Bid Form Here! </a>             <a href="/index.php/aboutus/joinmailinglist">Press Here to join our Mailing List!</a></span>        <a href="http://get.adobe.com/reader/?promoid=JZEFU"><img src="/images/starman/getadobe.jpg" alt="Get the Adobe Reader" width="98" height="24"></a></p></div>
+		</div>
+	
+              </div>
+                        
+              
+              <div id="s5_loginreg">  
+                  <div id="s5_logregtm">
+                    
+                      
+                                                  <div id="s5_register" class="s5box_register">
+                            <ul class="s5boxmenu"><li>Register</li>
+                            </ul></div>
+                                                
+                                            
+                                          
+                        <div id="s5_login" class="s5box_login">
+                          <ul class="s5boxmenu"><li>
+                              Login                            </li>
+                          </ul></div>
+                      
+                                            
+                  </div>
+              </div>
+                        
+                          <div id="fontControls"></div>
+                        <div style="clear:both; height:0px"></div>
+          </div>
+                
+        <div style="clear:both; height:0px"></div>      
+      </div>
+    </div>
+    </div>
+    </div>
+  <!-- End Header -->  
+  
+  
+    
+  
+  <!-- Top Row1 -->  
+      <!-- End Top Row1 -->  
+    
+  <div id="s5_center_area">
+    
+  <!-- Top Row2 -->  
+      <!-- End Top Row2 -->
+  
+  
+  
+  <!-- Top Row3 -->  
+      <!-- End Top Row3 -->  
+    
+    
+    
+  <!-- Center area -->  
+        <div id="s5_center_area1">
+    <div id="s5_center_area2">
+    <div id="s5_center_area_inner">
+    
+    <!-- Above Columns Wrap -->  
+          <!-- End Above Columns Wrap -->      
+        
+      <!-- Columns wrap, contains left, right and center columns -->  
+      <div id="s5_columns_wrap">
+      <div id="s5_columns_wrap_inner">
+        
+        <div id="s5_center_column_wrap">
+        <div id="s5_center_column_wrap_inner" style="margin-left:29px; margin-right:0px;">
+          
+                    
+            <div id="s5_middle_top_wrap">
+              
+              <div id="s5_middle_top">
+              <div id="s5_middle_top_inner">
+              
+                                  <div id="s5_pos_middle_top_1" class="s5_float_left" style="width:100%">
+                    	
+					
+						
+				
+		<div class="module_round_box_outer">
+		
+		<div class="module_round_box-grey1_small_border">
+
+
+				<div class="s5_module_box_1">
+					<div class="s5_module_box_2">
+												<div class="s5_mod_h3_outer">
+							<h3 class="s5_mod_h3"><span class="s5_h3_first">Aviation </span> is what we do</h3>
+						</div>
+												
+<script type="text/javascript">//<![CDATA[
+    document.write('<style>@media screen and (max-width: 900px){#s5_fd_1{width:100% !important;}#s5_fd_2{width:100% !important;}#s5_fd_3{width:100% !important;}');
+//]]></script><script type="text/javascript">//<![CDATA[
+    document.write('<style>.s5_fd_1_active{background-image: url(http://www.shape5.com/demo/business_pro/images/fd_inactive.png) !important; background-repeat: no-repeat !important; background-position: top right !important;}.s5_fd_2_active{background-image: url(images/fd_active.png) !important; background-repeat: no-repeat !important; background-position: top right !important;}.s5_fd_3_active{background-image: url(images/fd_active.png) !important; background-repeat: no-repeat !important; background-position: top right !important;}');
+//]]></script><div style="display:none">
+
+<script type="text/javascript">
+var s5_fd_image_cached = "no";
+</script><img src="http://www.shape5.com/demo/business_pro/images/fd_inactive.png" alt=""><img onload="s5_fd_images_loaded();" src="http://www.starmanauctions.com/images/starman/starman2.jpg" alt=""><img src="http://www.shape5.com/demo/business_pro/images/fd_inactive.png" alt=""><img src="http://www.shape5.com/demo/business_pro/images/fd_inactive.png" alt=""><img onload="s5_fd_images_loaded();" src="http://www.starmanauctions.com/images/starman/starman4.jpg" alt=""><img src="/images/fd_active.png" alt=""><img src="/images/fd_inactive.png" alt=""><img onload="s5_fd_images_loaded();" src="http://www.starmanauctions.com/images/starman/starman6.jpg" alt=""><img src="/images/fd_active.png" alt=""></div>
+
+<div id="s5_fd_loader" style="background:url(http://starmanauctions.com//modules/mod_s5_frontpage_display3/s5_frontpage_display_3/ajax-loader.gif) no-repeat center center;height:22px;width:100%;display:none;"></div>
+
+<div id="s5_fd_outer" style="display:none; padding:0px; width:100%;-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=0)';filter: alpha(opacity=0);-moz-opacity: 0;-khtml-opacity: 0;opacity: 0;">
+	
+	<div id="s5_fd_top_wrap" style="margin-bottom:0px; margin-top:0px; margin-right:0px; margin-left:0px;">
+	<div id="s5_fd_top_wrap_inner" style="width:100%; overflow:hidden; position:relative; z-index:1">
+	
+		<div id="s5_fd_div1" onmouseover="s5_fd_hover()" onmouseout="s5_fd_hover_out()" style="position:absolute; z-index:1; opacity: 0;">
+			<div id="s5_fd_div1_inner" style="width:100%; position:absolute; z-index:2">
+			<div id="s5_fd_div1_inner_relative" style="width:100%; position:relative">
+				<div class="fd_text"><div class="fd_text_inner">	<div class="fd_left">		<span class="fd_title">AvantAir - Starman Auctions</span>		<span class="fd_small_text">The asset sale of the largest Piaggio P-180 operator in the United States.</span>	</div>	<div class="fd_right">		<a href="/index.php/aboutus/integrity" class="readmore_button_large"></a>	</div>	<div style="clear:both"></div></div></div>			</div> 
+			</div> 
+			<img id="s5_fd_image1" style="width:100%" alt="" src="/"></div>
+		
+		<div id="s5_fd_div2" onmouseover="s5_fd_hover()" onmouseout="s5_fd_hover_out()" style="position:absolute; z-index:1; opacity: 1;">
+			<div id="s5_fd_div2_inner" style="width:100%; position:absolute; z-index:2">
+			<div id="s5_fd_div2_inner_relative" style="width:100%; position:relative">
+				<div class="fd_text"><div class="fd_text_inner">	<div class="fd_left">		<span class="fd_title">AvantAir - Starman Auctions</span>		<span class="fd_small_text">The asset sale of the largest Piaggio P-180 operator in the United States.</span>	</div>	<div class="fd_right">		<a href="/index.php/aboutus/integrity" class="readmore_button_large"></a>	</div>	<div style="clear:both"></div></div></div>			</div> 
+			</div>
+			<img id="s5_fd_image2" style="width:100%" alt="" src="/"></div>
+		
+		<div id="s5_fd_image_size_wrap" style="-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=0)';filter: alpha(opacity=0);-moz-opacity: 0;-khtml-opacity: 0;opacity: 0;">
+			<img id="s5_fd_image_size" style="width:100%;" alt="" src="http://www.starmanauctions.com/images/starman/starman2.jpg"></div>
+		
+		<div style="clear:both"></div>
+		
+	</div>
+	</div>
+	
+	<div id="s5_fd_boxes_wrap" style="margin-bottom:0px; margin-top:1px; margin-right:-1px; margin-left:0px;">
+	<div id="s5_fd_boxes_wrap_inner">
+	
+		<div id="s5_fd_1" onmouseover="s5_fd1();s5_fd_hover()" onmouseout="s5_fd_hover_out()" style="float:left; padding:0%; margin:0%; width:33.33333%; background-image: url(http://www.shape5.com/demo/business_pro/images/fd_inactive.png); background-repeat: repeat-y; background-position: top right;">
+			<div class="fd_box">	<img class="fd_box_img" src="/images/starmanprofile.png" alt=""><span class="fd_box_title">Integrity</span>	<div class="fd_box_text">		<span class="highlight1_text">We do what we say, every time</span> <br>Many of the largest airlines in the world entrust their asset sales to Starman Auctions, so should you.	</div>	<a href="/index.php/aboutus/integrity" class="readon">Read More</a>	<div style="clear:both;"></div></div>			<div style="clear:both"></div>
+		</div>
+		<div id="s5_fd_2" onmouseover="s5_fd2();s5_fd_hover()" onmouseout="s5_fd_hover_out()" style="float:left; padding:0%; margin:0%; width:33.33333%; background-image: url(http://www.shape5.com/demo/business_pro/images/fd_inactive.png); background-repeat: repeat-y; background-position: top right;">
+			<div class="fd_box">	<img class="fd_box_img" src="/images/starman/smoorestyle.jpg" alt=""><span class="fd_box_title">Professional</span>	<div class="fd_box_text">		<span class="highlight1_text">This is not our first rodeo</span> <br>Our staff has years of experience so that you can rest assured that the auction will go off without a hitch.	</div>	<a href="/index.php/aboutus/professional" class="readon">Read More</a>	<div style="clear:both;"></div></div>			<div style="clear:both"></div>
+		</div>
+				<div id="s5_fd_3" onmouseover="s5_fd3();s5_fd_hover()" onmouseout="s5_fd_hover_out()" style="float:left; padding:0%; margin:0%; width:33.33333%; background-image: url(/images/fd_inactive.png); background-repeat: repeat-y; background-position: top right;">
+			<div class="fd_box">	<img class="fd_box_img" src="/images/starmanprofile.png" alt=""><span class="fd_box_title">Experience</span>	<div class="fd_box_text">		<span class="highlight1_text">Over 25 years of experience</span> <br>Aviation auctions are all we do.  We know the aircraft, the parts, the tools, the ground support equipment, and the documentation required for a successful sale.	</div>	<a href="/index.php/aboutus/experience" class="readon">Read More</a>	<div style="clear:both;"></div></div>			<div style="clear:both"></div>
+		</div>
+																
+		<div style="clear:both"></div>
+		
+	</div>
+	</div>
+		
+</div>
+
+<script type="text/javascript">//<![CDATA[
+
+var s5_fd_number_boxes = 3;
+var s5_fd_highlight = '1';
+var s5_fd_rotate = 'no';
+var s5_fd_speed = '5';
+var s5_top1_pic = 'http://www.starmanauctions.com/images/starman/starman2.jpg';
+var s5_top1_hyperlink = 'http://www.starmanauctions.com/index.php/aboutus/integrity';
+var s5_top1_target = 'same';
+var s5_top1_content = '<div class="fd_text"><div class="fd_text_inner">	<div class="fd_left">		<span class="fd_title">AvantAir - Starman Auctions		<span class="fd_small_text">The asset sale of the largest Piaggio P-180 operator in the United States.	</script></div>	<div class="fd_right">		<a href="/index.php/aboutus/integrity" class="readmore_button_large"></a>	</div>	<div style="clear:both"></div></div></div>';
+var s5_box1_hyperlink = '';
+var s5_box1_target = 'same';
+var s5_top2_pic = 'http://www.starmanauctions.com/images/starman/starman4.jpg';
+var s5_top2_hyperlink = '';
+var s5_top2_target = 'same';
+var s5_top2_content = '<div class="fd_text"><div class="fd_text_inner">	<div class="fd_left">		<span class="fd_title">The same way every time</span>		<span class="fd_small_text">Professional setup each and every time.</span>	</div>	<div class="fd_right">		<a href="/index.php/aboutus/professional" class="readmore_button_large"></a>	</div>	<div style="clear:both"></div></div></div>';
+var s5_box2_hyperlink = '';
+var s5_box2_target = 'same';
+var s5_top3_pic = 'http://www.starmanauctions.com/images/starman/starman6.jpg';
+var s5_top3_hyperlink = '';
+var s5_top3_target = 'same';
+var s5_top3_content = '<div class="fd_text"><div class="fd_text_inner">	<div class="fd_left">		<span class="fd_title">Experience</span>		<span class="fd_small_text">No one had more experience with aviation auctions that Starman Auctions!</span>	</div>	<div class="fd_right">		<a href="/index.php/aboutus/experience" class="readmore_button_large"></a>	</div>	<div style="clear:both"></div></div></div>';
+var s5_box3_hyperlink = '';
+var s5_box3_target = 'same';
+//]]&gt;
+
+	
+
+	<script language="javascript" type="text/javascript" src="http://starmanauctions.com//modules/mod_s5_frontpage_display3/s5_frontpage_display_3/s5_fd_jquery.js"></script><script type="text/javascript">jQuery.noConflict();</script><div style="clear:both; height:0px"></div>
+					</div>
+				</div>
+
+			
+		</div>
+		
+		</div>
+
+	
+                  </div>
+                                
+                                
+                                
+                                
+                                
+                            
+                <div style="clear:both; height:0px"></div>
+
+              </div>
+              </div>
+            
+            </div>
+
+                    
+                      
+            <div id="s5_component_wrap">
+            <div id="s5_component_wrap_inner">
+            
+                                
+                            
+                <div id="system-message-container">
+	</div>
+
+<div class="blog-featured" itemscope itemtype="https://schema.org/Blog">
+
+	
+		
+		<div class="items-row cols-3 row-0 row-fluid">
+					<div class="item column-1 span4" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+			
+
+
+
+
+
+
+
+
+
+<div class="s5_is"><img style="width: 183px; height: 99px;" src="/images/starman/Advertising-Tips.jpg" alt="" width="308" height="240"><div class="s5_is_slide">
+<h3>Advertising</h3>
+Starman Auctions advertises to qualified buyers every time! Learn More...</div>
+</div>
+<p><span class="highlight1_text highlight_font" style="font-size: 1.2em; display: block; margin-bottom: 10px; margin-top: 5px;">The correct aviation clients see your product </span>With a list of over 58,000 qualified buyers worldwide that is updated each and every day Starman Auctions makes sure that the industry is aware of the sale.</p>
+<p class="readmore"> </p>
+
+
+
+			</div>
+			
+			
+	
+					<div class="item column-2 span4" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+			
+
+
+
+
+
+
+
+
+
+<div class="s5_is"><img style="width: 372px; height: 252px;" src="/images/starman/starmansetup.jpg" alt="" width="308" height="240"><div class="s5_is_slide">
+<h3>Setup</h3>
+The most important part of every auction is the setup. Learn More...</div>
+</div>
+<p><span class="highlight1_text highlight_font" style="font-size: 1.2em; display: block; margin-bottom: 10px; margin-top: 5px;">Starman gets the layout and display of your assets right the first time, every time.</span>Scott Moore is in charge of every setup done by Starman Auctions.  Mr. Moore is second to none when it comes to placing the right part in the best area for maximizing returns. </p>
+<p class="readmore"> </p>
+
+
+
+			</div>
+			
+			
+	
+					<div class="item column-3 span4" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+			
+
+
+
+
+
+
+
+
+
+<div class="s5_is"><img style="width: 515px; height: 311px;" src="/images/starman/starmanpiece.jpg" alt="" width="515" height="383"><div class="s5_is_slide">
+<h3>A piece at a time</h3>
+We sell your items a piece at a time maximizing your returns. Learn More...</div>
+</div>
+<p><span class="highlight1_text highlight_font" style="font-size: 1.2em; display: block; margin-bottom: 10px; margin-top: 5px;">The only way to sell aircraft parts, one at a time</span>One part at a time, every time.  Starman Auctions sells your assets one piece at a time.  This means that every single item gets the attention it deserves.</p>
+<p class="readmore"> </p>
+
+
+
+			</div>
+			
+			
+		</div>
+		
+	
+
+
+</div>
+
+                <div style="clear:both;height:0px"></div>
+                
+                            
+                            
+            </div>
+            </div>
+            
+                    
+                    
+        </div>
+        </div>
+        <!-- Left column -->  
+                  <div id="s5_left_column_wrap" class="s5_float_left" style="width:29px">
+          <div id="s5_left_column_wrap_inner">
+                          <div id="s5_left_top_wrap" class="s5_float_left" style="width:29px">
+                	
+				
+		<div class="module_round_box_outer">
+		
+		<div class="module_round_box">
+
+
+				<div class="s5_module_box_1">
+					<div class="s5_module_box_2">
+												<table class="mod_events_latest_table jevbootstrap" width="100%" border="0" cellspacing="0" cellpadding="0" align="center"><tr><td class="mod_events_latest_first" style="border-color:#ccc"><p style="color: #ffffff; background-color: #ff0000">UPCOMING AUCTION</p><p style="color: red; background-color: #ffff42"><a href="/index.php/onsiteauctions/2017-fall-consignment-auction/icalrepeat.detail/2017/11/08/90/-/online-auction-cfm56-3-cfm56-7-engine-inventory-surplus-to-avioserv-bids-open-october-25th-and-begin-closing-november-8th-at-12-00-pm-est?filter_reset=1" target="_top">ONLINE AUCTION ~ CFM56-3 &amp; CFM56-7 ENGINE INVENTORY Surplus to AVIOSERV ~ Bids Open October 25th and Begin Closing November 8th at 12:00 PM (EST)</a></p></td></tr><tr><td class="mod_events_latest" style="border-color:#ccc"><p style="color: #ffffff; background-color: #ff0000">UPCOMING AUCTION</p><p style="color: red; background-color: #ffff42"><a href="/index.php/onsiteauctions/2017-fall-consignment-auction/icalrepeat.detail/2017/11/11/89/-/2017-fall-consignment-auction-friday-saturday-november-10th-11th-2017-yukon-oklahoma?filter_reset=1" target="_top">2017 Fall Consignment Auction ~ Friday &amp; Saturday, November 10th &amp; 11th, 2017 ~ Yukon, Oklahoma</a></p></td></tr></table><div class="mod_events_latest_rsslink"><a href="http://starmanauctions.com/index.php?option=com_jevents&amp;task=modlatest.rss&amp;format=feed&amp;type=rss&amp;modid=193" title="RSS Feed" target="_blank"><img src="http://starmanauctions.com/media/system/images/livemarks.png" alt="RSS Feed">Subscribe to RSS Feed</a></div>						<div style="clear:both; height:0px"></div>
+					</div>
+				</div>
+
+			
+		</div>
+		
+		</div>
+
+	
+              </div>
+                                      <div id="s5_left_wrap" class="s5_float_left" style="width:29px">
+                	
+					
+						
+				
+		<div class="module_round_box_outer">
+		
+		<div class="module_round_box-grey2">
+
+
+				<div class="s5_module_box_1">
+					<div class="s5_module_box_2">
+												<div class="s5_mod_h3_outer">
+							<h3 class="s5_mod_h3"><span class="s5_h3_first">The </span> Starman Auction Team</h3>
+						</div>
+												
+
+<div class="custom-grey2">
+	<div style="margin-top: -19px; margin-left: -19px; margin-right: -19px; margin-bottom: 18px;">
+<div class="s5_is"><img src="/images/starman/starman1.jpg" alt="" width="507" height="338"><div class="s5_is_slide">
+<h3>Expert in Aircraft and Aircraft Parts</h3>
+No one knows aviation asset sales like the Starman</div>
+<div class="s5_is_slide">team. Contact us today to learn more...</div>
+</div>
+</div>
+<div style="line-height: 150%;"><span style="font-family: Arial, Helvetica, Univers, 'Zurich BT', sans-serif;">We realize how difficult liquidations can be and appreciate how important it is to capture the highest possible equity. We know competitive bidding from prospective buyers will produce the highest market value. In these situations the liquidator, or selling agent, can make the difference in capturing the most equity.  Professional, an excellent reputation, expert advertising, along with organized detail in setting up the sale are important elements for a successful auction. <br></span></div>
+<p> </p>
+<div style="clear: both;"> </div></div>
+						<div style="clear:both; height:0px"></div>
+					</div>
+				</div>
+
+			
+		</div>
+		
+		</div>
+
+		
+					
+						
+				
+		<div class="module_round_box_outer">
+		
+		<div class="module_round_box-highlight2">
+
+
+				<div class="s5_module_box_1">
+					<div class="s5_module_box_2">
+												<div class="s5_mod_h3_outer">
+							<h3 class="s5_mod_h3"><span class="s5_h3_first">Zeus </span> Appraisals and Valuations</h3>
+						</div>
+												
+
+<div class="custom-highlight2">
+	<div style="line-height: 140%; text-align: left;"><a href="http://www.zeusav.com"><img src="/images/ZeusLogoSmall.png" alt="" width="164" height="76"></a>Starman Auctions is pleased to announce their exclusive partnership with <a href="http://www.zeusav.com">Zeus Appraisals and Valuations </a>We are now able to provide complete appraisal and valuation services. We look forward to serving you in this new capacity.</div></div>
+						<div style="clear:both; height:0px"></div>
+					</div>
+				</div>
+
+			
+		</div>
+		
+		</div>
+
+		
+					
+						
+				
+		<div class="module_round_box_outer">
+		
+		<div class="module_round_box-dark">
+
+
+				<div class="s5_module_box_1">
+					<div class="s5_module_box_2">
+												<div class="s5_mod_h3_outer">
+							<h3 class="s5_mod_h3"><span class="s5_h3_first">Guests </span> Online</h3>
+						</div>
+												
+			<p>We have 47 guests and one member online</p>
+
+						<div style="clear:both; height:0px"></div>
+					</div>
+				</div>
+
+			
+		</div>
+		
+		</div>
+
+		
+					
+						
+				
+		<div class="module_round_box_outer">
+		
+		<div class="module_round_box-dark">
+
+
+				<div class="s5_module_box_1">
+					<div class="s5_module_box_2">
+												<div class="s5_mod_h3_outer">
+							<h3 class="s5_mod_h3"><span class="s5_h3_first">Contact </span> Us Today</h3>
+						</div>
+												
+
+<div class="custom-dark">
+	<div class="contact_module"> 
+<div class="contact_module">
+<div class="contact_section">Our Addresses:</div>
+<div class="contact_section">4901 E Falcon Drive</div>
+<div class="contact_section">Unit 100</div>
+<div class="contact_section">Mesa AZ 85215</div>
+<div class="contact_section">Phone: 402-681-6456</div>
+<div class="contact_section"> </div>
+<div class="contact_section">1240 Royal Drive</div>
+<div class="contact_section">Papillion, NE 68046<br> Phone: 402-592-1933</div>
+<div class="contact_section"> </div>
+<div class="contact_section" style="margin-top: 6px;">Hours of Operation:<br> Monday-Friday. 9am to 5pm<br>Special Appointment Are Available</div>
+</div>
+</div></div>
+						<div style="clear:both; height:0px"></div>
+					</div>
+				</div>
+
+			
+		</div>
+		
+		</div>
+
+	
+              </div>
+                                              </div>
+          </div>
+                <!-- End Left column -->  
+        <!-- Right column -->  
+                <!-- End Right column -->  
+      </div>
+      </div>
+      <!-- End columns wrap -->  
+      
+    <!-- Below Columns Wrap -->  
+          <!-- End Below Columns Wrap -->        
+      
+      
+    </div>
+    </div>
+    </div>
+      <!-- End Center area -->  
+  
+  
+  <!-- Bottom Row1 -->  
+      <!-- End Bottom Row1 -->  
+    
+    
+  <!-- Bottom Row2 -->  
+      <!-- End Bottom Row2 -->
+  
+  </div>
+  
+  <!-- Bottom Row3 -->  
+        <div id="s5_bottom_row3_area1">  
+    <div id="s5_bottom_row3_area2">
+    <div id="s5_bottom_row3_area_inner">
+    
+      <div id="s5_bottom_row3_wrap">
+        <div id="s5_bottom_row3">
+        <div id="s5_bottom_row3_inner">
+        
+                      <div id="s5_pos_custom_3">
+              	
+				
+		<div class="module_round_box_outer">
+		
+		<div class="module_round_box">
+
+
+				<div class="s5_module_box_1">
+					<div class="s5_module_box_2">
+												
+
+<div class="custom">
+	<div class="request_call">
+<div class="request_call_left"><img class="request_img" style="width: 102px; height: 61px;" src="/images/gavel.jpg" alt="" width="87" height="55"><span class="large_highlight_font"> We have helped <span class="highlight1_text">thousands of aviation clients</span> sell their assets, let use help you! </span></div>
+<div class="request_call_right"><a class="highlight_button" href="/index.php/contact/5-roberta-nusser#display-form">Request a Call</a></div>
+<div style="clear: both;"> </div>
+</div></div>
+						<div style="clear:both; height:0px"></div>
+					</div>
+				</div>
+
+			
+		</div>
+		
+		</div>
+
+	
+            </div>
+                  
+                      <div id="s5_pos_bottom_row3_1" class="s5_float_left" style="width:26%">
+              	
+					
+						
+				
+		<div class="module_round_box_outer">
+		
+		<div class="module_round_box-white">
+
+
+				<div class="s5_module_box_1">
+					<div class="s5_module_box_2">
+												<div class="s5_mod_h3_outer">
+							<h3 class="s5_mod_h3"><span class="s5_h3_first">Quick </span> Menu</h3>
+						</div>
+												<ul class="nav menu"><li class="item-181"><a href="/index.php/our-privacy-policy">Our Privacy Policy</a></li><li class="item-182"><a href="/index.php/address-information">Address Information</a></li><li class="item-183"><a href="/index.php/network-of-people">Network of People</a></li><li class="item-184"><a href="/index.php/get-to-know-us">Get To Know Us</a></li><li class="item-185"><a href="/index.php/customer-satisfaction">Customer Satisfaction</a></li></ul><div style="clear:both; height:0px"></div>
+					</div>
+				</div>
+
+			
+		</div>
+		
+		</div>
+
+	
+            </div>
+                    
+                    
+                      <div id="s5_pos_bottom_row3_3" class="s5_float_left" style="width:48%">
+              	
+					
+						
+				
+		<div class="module_round_box_outer">
+		
+		<div class="module_round_box-white">
+
+
+				<div class="s5_module_box_1">
+					<div class="s5_module_box_2">
+												<div class="s5_mod_h3_outer">
+							<h3 class="s5_mod_h3"><span class="s5_h3_first">Additional </span> Information</h3>
+						</div>
+												
+
+<div class="custom-white">
+	<p>We spent a long time listening to you while developing our new website.  While the old site has served us well over the years it did not have the ability to adapt to the many different devices that are available today.  Our new site was developed with the future in mind.  It can adapt to mobile and tablet resolutions as well as the myriad of display options available on modern LCD monitors.</p></div>
+						<div style="clear:both; height:0px"></div>
+					</div>
+				</div>
+
+			
+		</div>
+		
+		</div>
+
+	
+            </div>
+                    
+                    
+                    
+                      
+          <div style="clear:both; height:0px"></div>
+
+        </div>
+        </div>
+      </div>
+
+    </div>
+    </div>
+    </div>
+      <!-- End Bottom Row3 -->
+  
+  
+  <!-- Footer Area -->
+    <div id="s5_footer_area1">
+    <div id="s5_footer_area2">
+    <div id="s5_footer_area_inner">
+    
+              <div id="s5_footer">
+          <span class="footerc">
+Copyright © 2017.  Starman Auctions.
+</span>
+        </div>
+            
+              <div id="s5_bottom_menu_wrap">
+          		<div class="moduletable">
+			<ul class="nav menu"><li class="item-171 current active"><a href="/index.php">Home</a></li><li class="item-172"><a href="/index.php/about-us">About Us</a></li><li class="item-173"><a href="/index.php/news">News</a></li><li class="item-174"><a href="/index.php/featured">Featured</a></li><li class="item-175"><a href="/index.php/site-terms">Site Terms</a></li></ul></div>
+	
+        </div>  
+            <div style="clear:both; height:0px"></div>
+      
+    </div>
+    </div>
+    </div>
+  <!-- End Footer Area -->
+  
+  <!-- Bottom Vertex Calls -->
+  <!-- Page scroll, tooltips, multibox, and ie6 warning -->	
+	<!-- Start compression if enabled -->	
+				<div id="s5_scroll_wrap" class="s5_wrap">
+			<script type="text/javascript">
+/*! Jquery scrollto function */
+(function(a,c){var b=(function(){var d=c(a.documentElement),f=c(a.body),e;if(d.scrollTop()){return d}else{e=f.scrollTop();if(f.scrollTop(e+1).scrollTop()==e){return d}else{return f.scrollTop(e)}}}());c.fn.smoothScroll=function(d){d=~~d||400;return this.find('a[href*="#"]').click(function(f){var g=this.hash,e=c(g);if(location.pathname.replace(/^\//,'')===this.pathname.replace(/^\//,'')&&location.hostname===this.hostname){if(e.length){f.preventDefault();b.stop().animate({scrollTop:e.offset().top},d,function(){location.hash=g})}}}).end()}}(document,jQuery));
+jQuery(document).ready(function(){
+		jQuery('html').smoothScroll(700);
+	});
+</script><div id="s5_scrolltopvar">
+<a href="#s5_scrolltotop" class="s5_scrolltotop"></a>
+</div>
+		</div>
+		
+
+		
+		
+	<script type="text/javascript">
+		jQuery(document).ready(function($){
+			$('.s5mb').each(function(i,z){if(!z.getAttribute('rel'))z.setAttribute('rel','[me]');});
+		}(jQuery));
+		var s5mbox = {};
+		
+				
+		        jQuery(document).ready(function($){
+				
+		
+		window.s5mbox = new multiBox({
+			mbClass: '.s5mb',//class you need to add links that you want to trigger multiBox with (remember and update CSS files)
+			container: $(document.body),//where to inject multiBox
+			path: 'http://starmanauctions.com/templates/business_pro/js/multibox/',//path to mp3player and flvplayer etc
+			useOverlay: true,//detect overlay setting
+			maxSize: {w:600, h:400},//max dimensions (width,height) - set to null to disable resizing
+			movieSize: {w:400, h:300},
+			addDownload: false,//do you want the files to be downloadable?
+			descClassName: 's5_multibox',//the class name of the description divs
+			pathToDownloadScript: 'http://starmanauctions.com/templates/business_pro/js/multibox/forceDownload.asp',//if above is true, specify path to download script (classicASP and ASP.NET versions included)
+			addRollover: true,//add rollover fade to each multibox link
+			addOverlayIcon: false,//adds overlay icons to images within multibox links
+			addChain: false,//cycle through all images fading them out then in
+			recalcTop: true,//subtract the height of controls panel from top position
+			addTips: true,//adds MooTools built in 'Tips' class to each element (see: http://mootools.net/docs/Plugins/Tips)
+			autoOpen: 0//to auto open a multiBox element on page load change to (1, 2, or 3 etc)
+		});
+		
+
+		}(jQuery));
+						Eventx.onResizend(function(){		
+				s5mbox.resize(); 
+			});
+						
+	</script><script type="text/javascript">//<![CDATA[
+	var s5_resize_columns_browser_check = "other";
+	var s5_resize_columns = "all";
+	var s5_resize_columns_delay = "500";
+	var s5_resize_columns_small_tablets = "default";
+//]]></script><script type="text/javascript" language="javascript" src="http://starmanauctions.com/templates/business_pro/js/s5_columns_equalizer.js"></script><!-- Additional scripts to load just before closing body tag --><!-- Info Slide script - JS and CSS called in header --><script type="text/javascript">
+	jQuery(document).ready(function(){
+	    jQuery('.s5_is_slide').each(function (i, d) {
+				jQuery(d).wrapInner(jQuery('<div class="s5_is_display">'));
+			});
+			var options = {
+				wrapperId: "s5_body"
+			};
+			var slide = new Slidex();
+			slide.init(options);
+		});
+	</script><!-- File compression. Needs to be called last on this file --><!-- Responsive Bottom Mobile Bar --><!-- Call bottom bar for mobile devices if layout is responsive --><div id="s5_responsive_mobile_bottom_bar_outer" style="display:none">
+	<div id="s5_responsive_mobile_bottom_bar" class="s5_responsive_mobile_bar_light">
+		<!-- Call mobile links if links are enabled and cookie is currently set to mobile -->	
+					<div id="s5_responsive_switch_mobile">
+				<a id="s5_responsive_switch" href="/?s5_responsive_switch_starmanauctionscom=0">Desktop Version</a>
+			</div>
+		
+					<div id="s5_responsive_mobile_scroll">
+				<a href="#s5_scrolltotop" class="s5_scrolltotop"></a>
+			</div>
+				<div style="clear:both;height:0px"></div>
+	</div>
+	</div>
+
+<!-- Call bottom bar for all devices if user has chosen to see desktop version -->	
+  
+
+<!-- End Body Padding -->
+
+
+
+
+		<div class="s5_fourdivs_1-s5_box">
+		<div class="s5_fourdivs_2">
+		<div class="s5_fourdivs_3">
+		<div class="s5_fourdivs_4">
+			<h3 class="s5_fourdivs_title">S5 Box</h3>			<script type="text/javascript" src="http://starmanauctions.com/modules/mod_s5_box/js/s5_box_hide_div.js"></script><div class="s5boxhidden"><div id="s5box_login">
+	
+					
+						
+				
+		<div class="module_round_box_outer">
+		
+		<div class="module_round_box">
+
+
+				<div class="s5_module_box_1">
+					<div class="s5_module_box_2">
+												<div class="s5_mod_h3_outer">
+							<h3 class="s5_mod_h3"><span class="s5_h3_first">Login </span></h3>
+						</div>
+												<form action="/index.php" method="post" id="login-form" class="form-inline">
+		<div class="userdata">
+		<div id="form-login-username" class="control-group">
+			<div class="controls">
+									<div class="input-prepend">
+						<span class="add-on">
+							<span class="icon-user hasTooltip" title="Username"></span>
+							<label for="modlgn-username" class="element-invisible">Username</label>
+						</span>
+						<input id="modlgn-username" type="text" name="username" class="input-small" tabindex="0" size="18" placeholder="Username"></div>
+							</div>
+		</div>
+		<div id="form-login-password" class="control-group">
+			<div class="controls">
+									<div class="input-prepend">
+						<span class="add-on">
+							<span class="icon-lock hasTooltip" title="Password">
+							</span>
+								<label for="modlgn-passwd" class="element-invisible">Password							</label>
+						</span>
+						<input id="modlgn-passwd" type="password" name="password" class="input-small" tabindex="0" size="18" placeholder="Password"></div>
+							</div>
+		</div>
+						<div id="form-login-remember" class="control-group checkbox">
+			<label for="modlgn-remember" class="control-label">Remember Me</label> <input id="modlgn-remember" type="checkbox" name="remember" class="inputbox" value="yes"></div>
+				<div id="form-login-submit" class="control-group">
+			<div class="controls">
+				<button type="submit" tabindex="0" name="Submit" class="btn btn-primary login-button">Log in</button>
+			</div>
+		</div>
+					<ul class="unstyled"><li>
+					<a href="/index.php/component/users/?view=remind&amp;Itemid=101">
+					Forgot your username?</a>
+				</li>
+				<li>
+					<a href="/index.php/component/users/?view=reset&amp;Itemid=101">
+					Forgot your password?</a>
+				</li>
+			</ul><input type="hidden" name="option" value="com_users"><input type="hidden" name="task" value="user.login"><input type="hidden" name="return" value="aHR0cDovL3N0YXJtYW5hdWN0aW9ucy5jb20v"><input type="hidden" name="4ec8d68be4a394067acf9a023709936d" value="1"></div>
+	</form>
+						<div style="clear:both; height:0px"></div>
+					</div>
+				</div>
+
+			
+		</div>
+		
+		</div>
+
+	</div></div>  
+
+	
+	
+		</div>
+		</div>
+		</div>
+		</div>
+	
+  
+
+</body></html>
+
+
+<hr><br>
