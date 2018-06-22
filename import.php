@@ -242,7 +242,7 @@ onClick="document.location.href='importcsv.php'">Import</button></td>
       <tr><td colspan="2">&nbsp;</td></tr>
       <tr><td><input type="checkbox" id="insertresults">&nbsp;</td><td>Send me a copy of the results</td></tr>
       <tr><td colspan="2">&nbsp;</td></tr>
-      <tr id="emailrow" style="display:none"><td>Email:&nbsp;</td><td><input type="text" id="insertemail" value="programmer2@partslogistics.com"></td></tr>
+      <tr id="emailrow" style="display:none"><td>Email:&nbsp;</td><td><input type="text" id="insertemail" value="dummy@dummy.com"></td></tr>
       <tr><td colspan="2">&nbsp;</td></tr>
       <tr><td td colspan="2">Enter Keywords separated by comma&nbsp;</td></tr><tr><td colspan="2">&nbsp;</td></tr>
       <tr><td colspan="2"><textarea id="insertkword1" class="form-control input-sm"  type="text"></textarea></td></tr>
