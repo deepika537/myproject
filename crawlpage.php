@@ -1,6 +1,6 @@
 <?php
 require_once './class.Diff.php';
-$start="http://dnyavanandi.pl.internal/my-first-crawler/page1.html";
+$start="http://websitepath/my-first-crawler/page1.html";
 $depth=0;
 $already_crawled=array();
 $crawling=array();
