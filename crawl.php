@@ -296,7 +296,7 @@ $emailContent.="The following page has changed!<br>".extractString($new_con[$i],
     // More headers
      $headers .= 'From: '.$_POST['email'] . "\r\n";
   	// Sendmail!
-  	mail("programmer2@partslogistics.com","Sites Have Changed!",$emailContent,$headers);
+  	mail("emailid","Sites Have Changed!",$emailContent,$headers);
   	// Debug
   	echo $emailContent;
   }
